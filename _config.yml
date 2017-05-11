@@ -1,0 +1,60 @@
+title: "Open Source Guides"
+description: "Learn how to launch and grow your project."
+
+exclude:
+  - bin
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - docs
+  - Gemfile*
+  - node_modules
+  - package.json
+  - Rakefile
+  - README.md
+  - script
+  - test
+  - vendor
+  - node_modules
+
+permalink: /:path/
+
+collections:
+  articles:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/cards/default.png
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: article
+
+gems:
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+
+sass:
+  style: :compressed
+  sass_dir: assets/css/
+  load_paths:
+    - node_modules
+    - node_modules/**/*/node_modules
+
+branch: gh-pages
+
+github:
+  repository_nwo: github/opensource.guide
+
+twitter:
+  username: github
+
+facebook:
+  publisher: https://www.facebook.com/GitHub/
