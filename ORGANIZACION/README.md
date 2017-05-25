@@ -42,7 +42,7 @@ Concreción de: qué quién, cuándo y cómo.
 - Gestión de tareas - Trello
 - Documentación - Github
 
-** Cómoo usamos trello**
+**Cómoo usamos trello**
 - Coordinador de Trello - Crea y asigna las tarjetas / tareas
 - Board - Panel con toda la estructur
 - Columnas - Estado de las taréas (INBOX, congelador, Calendario, En proceso, Hecho, Archivar)
