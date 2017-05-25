@@ -10,6 +10,8 @@
 
 ### Como está organizada anécdota del Jazz
 - Core, comunidad, patrocinadores, Entidades / colectivos hermanados.
+- Habría que hacer una introducción sobre cada una de las ramas del mindmap para que se sepa en qué consiste y qué no es.
+https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf
 
 ### Cómo funciona
 - Por proyectos
