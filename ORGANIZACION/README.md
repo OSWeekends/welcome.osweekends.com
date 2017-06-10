@@ -2,11 +2,14 @@
 
 **Estes es el sitio bueno!**
 
-**Uptdates 25/05/14**
-Participantes -Pepe.S, Ulises, Ignacio, Jose, Carlos
-Dan respuesta a las preguntas propuestas en Sobre OSW
+**Uptdates 10/06/17**
+Participantes -Pepe.S, Ulises, Jose, Carlos
+Entrevista a los 3 para consensuar lar respuestas básicas sobre OSW
+Queda pendiente ponerlas por escrito antes de la próxima reunión con Ulises.
+Hay que darle una vuelta al mindmap para que sea coherente con el texto.
 
-**Uptdates 25/05/14**
+
+**Uptdates 25/05/17**
 Participantes - Ulises y Pepe.S
 Arrancamos porfin la sección "Sobre open source weekends" donde explicamos en qué consiste la comunidad y como está organizada a día de hoy.
 Mind map con temas a desarrollar.
