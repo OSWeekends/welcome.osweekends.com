@@ -7,13 +7,18 @@
 We are a community of designers and developers pushing more open design processes and improving the user experience and interface design of open source software.)
 Es una comunidad de personas que ayuda a la sociedad fomentando el uso y el aprendizaje de herramientas de software y hardware libre
 
-### Cómo surge
-A partir de reuniones entre amigos reunidos regularmente en bares para compartir unas cervezas mientras se hablaba del open source y todo lo que se podía hacer.
+### Cómo surge 
+Los creadores de OSW son un grupo de amigos que se reunían regularmente en bares para compartir unas cervezas y una buena conversación sobre el open source y sus consecuencias en el mundo actual.
+
+En los eventos relacionados a los que asistían sólo hablaba el ponente mientras el resto del público ténia que escuchar lo que decía fuera interesante o no. De modo que buscaron por todos lados comunidades similares sobre este tema donde todos pudieran participar y debatir de igual a igual. 
+
+Al no encontrarla decidieron crearla ellos mismos. 
 
 ### Qué quiere conseguir la comunidad
-1. BLABLABLA
-  - Find existing projects with open design processes, e.g. Mozilla, Canonical Aggregate design blogs of open source projects
-2. BLABLABLA
+OSW surje como una comunidad que se reune físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el open source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo.
+
+En definitiva: pasarlo bien!
+Obejtivos
 
 ### Como está organizada (anécdota del Jazz)
 - Habría que hacer una introducción sobre cada una de las ramas del mindmap para que se sepa en qué consiste y qué no es.
@@ -22,19 +27,27 @@ https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70
 - La comunidad está compuesta por...
   - Organización - Core
     - Aquellos que organizan el lugar del evento, las temáticas y logística.
-    - Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
+      - Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
   - Miembros
-    - Todos los apuntados al meetup, al slack o los que contribuyen de algún modo en proyectos????
+    - Todos los apuntados al meetup
   - Contribuidores
-    - sólo los que participan en algún proyecto ???
+    - Los que participan en algún proyecto
   - Voluntarios
-    - Todos aquellos que ayudan a dinamizar y organizar la logística durante el evento aunque  no sea con código o charlas
+    - Todos aquellos que ayudan a dinamizar y organizar la logística antes, durante y después de los eventos.
   - Equipo de Hackatones
-  - Grupos de trabajo -  (Conjunto de personas que comparten un interés común y no necesariamente desarrollan un proyecto concreto) (ejemplo mesa de debate entorno a un tema)
+    - Equipos multidisciplinares (hardware y software) montados para participar en hackatones en representación de OSW
+  - Grupos de trabajo
+    - Surgen entorno a intereses o temáticas concretas (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata..)
+    - Se componen por conjunto de personas lideradas coordinadas al menos por un senior para trabajar sobre un tema concreto. 
+    - De ese tema puede surgir una mesa redonda, un debate, quedadas o algún proyecto concreto.
   - Colectivos hermanados - Aquí????
- 
-
-
+  Son otras ogranizaciones cercanas, meetups y colectivos con quien OSW tiene muy buena relación y con quien comparten intereses e inquietudes y objetivos comunes. Se les considera por eso como "hermanos" y se les invita a andar el camino juntos
+   - R-ladies
+    - Adalab
+    - Gogueenagues
+    - Haskelmap
+    - ...
+    
 ### Cómo funciona
 - Eventos
   - Encuentros mensuales
