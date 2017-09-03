@@ -14,12 +14,12 @@ En los eventos relacionados a los que asistían sólo hablaba el ponente mientra
 
 Al no encontrarla decidieron crearla ellos mismos. 
 
-### Para qué surge la comunidad
+### Para qué
 OSW surje como una comunidad que se reune físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el open source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo.
 
 En definitiva: pasarlo bien!
 
-### Como se organiza. ¿Quíén es quién en OSW?
+### Quíén es quién en OSW?
 - Anecdota del jazz de Ulises
 - Habría que hacer una introducción sobre cada una de las ramas del mindmap para que se sepa en qué consiste y qué no es.
 https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf
@@ -31,20 +31,25 @@ Core actual: Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos
 
 Se encargan de coordinar y gestionar toda la actividad tanto online como offline de los enventos.Esto incluye buscar espacios para eventos, el catering, planificar las ponencias y talleres prácticos, la logística de los equipos de vídeo, la negociación con los sponsors,  colaboraciones con otras comunidades y evangelizar sobre open source.
 
-**2. Miembros de la comunidad**
+**2. Miembro**
 
-Todas las personas apuntadas al meetup de OSW.
+Persona apuntada al meetup de OSW.
 Constituyen la base de la comunidad, de aquí surgen todas las ideas, debates proyectos y aportaciones al mundo open source.
 
-**3. Contribuidores**
+**3. Contribuidor**
 
-Son los miembros que contribuyen en alguno de los proyectos desarrollados en OSW.
+Miembro que participa contribuyendo en alguno de los proyectos desarrollados en OSW.
 
-**4. Voluntarios**
+**4. Voluntario**
 
-Es cualquier persona que siendo o no miembro ayudan en los eventos de la comunidad para que estos salgan adelante.
+Cualquier persona que ayuda en los eventos de la comunidad para que salgan adelante. No hace falta ser miembro.
 
-**5. Comunidades hermanadas**
+**5. Equipo de Hackatones**
+
+Es un equipo multidisciplinar  (hardware y software) de personas que representa a OSW en los hackatones donde se decide participar.
+Se intenta que el equipo haya varias personas parecidas de cada perfil para tener mayor disponiblidad de cara a eventos.
+
+**6. Comunidades hermanadas**
 
 Son otros colectivos que comparten intereses, inquietudes, y una buena relación con OSW, por eso como "hermanos" se les invita a andar el camino juntos.
 - R-ladies
@@ -52,72 +57,124 @@ Son otros colectivos que comparten intereses, inquietudes, y una buena relación
 - Gogueenagues
 - Haskelmap
 - ...
-**6. Patrocinadores o Sponsors**
 
-##Hasta aquí!!
+**7. Patrocinadores o Sponsors**
 
+Son empresas que aportan recursos **no económicos** para facilitar el desarrollo de los eventos y proyectos de OSW. 
+Algunos de estos recursos son:
+ - Merchandising empresarial como tazas, pegatinas, camisetas.
+ - Pago del cátering
+ - Servicios tecnológicos para poner en producción los proyectos de OSW (dominios hosting, almacenamiento y procesamiento en la nube)
+    
+### Qué se hace en OSW
+
+**Eventos**
+  - Mensuales - La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos entre otras actividades.
+  - OS-Beers: tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
+
+**Proyectos**
+
+Pueden ser de software o hardware y sirven para aprender y participar todos juntos. Surgen entorno a intereses o temáticas concretas (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...). 
+
+Tipos de proyectos que se desarrollan en OSW
+    - Proyectos propios de OSW (Kooper)
+    - Proyectos de comunidades hermanadas 
+    - Proyectos de terceros que solicitan visibilidad y ayuda (Café solidario)
+
+**Grupos de trabajo**
+
+Se componen por grupos de personas para trabajar sobre un proyecto. 
+Cada grupo está compuesto por los miembros que lo desarrollan y al menos 2 senior en el tema para resolver dudas y orientar a los demás.
+
+
+### La comunicación en OSW
+
+**Web:**
+
+Es un lugar donde poder centralizar todos los medios con los que se comunican OSW y sus miembros.
+
+**Meetup**
+
+Plataforma para anunciar los eventos y coordinar la asistencia y resolver dudas relacionadas. En ocasiones se suben foto y vídos del propio evento. 
+
+**Slack**
+
+**Redes sociales**
+
+  - **Twitter** Medio principal para conectar con terceros y contar que está pasando en OSW.
+  - **Facebook** Medio para publicar fotos y vídeos de los eventos, eventualmente también se realiza alguna que otra comunicación.
+  
+**Github**
+
+Servicio web gratuito utilizado para documentar los proyectos que se desarrollan dentro de OSW
+
+  
+  
+  ---------------------
+Pendiente de amplización revisión con notas de audio correspondientes a la audio entrevista de junio
+Audio de la convesación con Carlos, Jose y Ulises
+-----------
+
+# Eventos
+
+Agenda del evento
+- Presentación y resumen de novedade
+- Presentación de propuestas de proyectos y proyectos externos que piden ayuda.
+- Micro talleres y charlas
+  - Selección de temas y ponentes
+  - Simultaneidad hasta 4
+  - Sponsorización de gastos de ponentes.
+  - Contenidos: convivencia con OS y publicación de slides
+  - Ejemplos de temáticas
+
+
+# Comunicación (Ampliar cada canal y adjuntar guía de iniciación para novatos)
+
+**Web:**
+**Meetup**
+**Slack**
+  - Canales
+    - #General: para presentaciones de los miembros y dudas concretas
+    - #Directo: para comentar en los eventos y subir enlaces de las presentaciones
+    - #Randon: Para cualquer broma o publicación interesante que quieras compartir con la comunidad.
+    - #Social: Bot de twitter para los usuarios que no tienen twitter
+    - #Eventos: Para comentar eventos de interés para la comunidad
+    - #jobs: para la publicación de ofertas de trabajo del sector.
+    - #Propuestas de mejora: para proponer cambios o mejoras.
+  - Funcionamiento:
+    - Si la duda es concreta puedes plantearla en #general. Si va a ser recurrente sobre un tema es mejor pasar randon o abrir un canal para ello.
+    - Los canales principales se mantienen, lo que no se usan son purgados cada 2 o 3 meses.
+  - Cada proyecto tiene su propio canal.
+
+**Redes sociales**
+  - **Twitter** 
+  - **Facebook**
+**Github**
+
+# Grupos de trabajo
+Cómo proponer
+Creación del equipo y asignación de los coordinadores.
+Creación del canal
+Repositorio de github
+Desarrollo
+Pautas y recomendaciones.
+
+¿Poner un ejemplo?
+
+
+# Patrocinadores (Desarrollar Sección específica)
 Qué aportan a la comunidad
   - Recursos físicos
   - Recursos económicos
   - Merchandishing
+Cómo ser patrocinador
+Procedimiento
 
-    
-### Qué cosas hace OSW
-- Eventos
-  - Encuentros mensuales
-  - Encuentros especiales (OS-Beers)
-  - Eventos especiales - participación en eventos de otras comunidades.
-  
-- Grupos de trabajo
-    - Surgen entorno a intereses o temáticas concretas (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata..)
-    - Se componen por conjunto de personas lideradas coordinadas al menos por un senior para trabajar sobre un tema concreto. 
-    - De ese tema puede surgir una mesa redonda, un debate, quedadas o algún proyecto concreto.
- 
-- Grupos de trabajo y proyectos 
-- Tecnologías que implementamos
-  - Organización de los grupos de trabajo de cada proyecto
-    - Quién coordina
-    - Quién ejecuta
+(Se les complementa con perfiles que pueden faltarles) oEn ocasiones se adoptan proyectos de otras comunidades con la carencia de algún perfil concreto para completarlos. (back, front, sistemas, maquetación, logos...)
+
+Quién coordina.
+- Quién ejecuta
     - Como se comunican
     - Cómo se organizan
     - Cómo documentan
     
-    
-  - Tipos de proyectos que se desarrollan en OSW
-    - Proyectos propios de OSW (Kooper)
-    - Proyectos de otras comunidades que OSW apoya / Soporta ( News de R-Ladies)
-    - Proyectos de terceros que solicitan Visibilidad y ayuda (proyectos privados - Café solidario)
-
-**Equipo de Hackatones**
-Es un equipo multidisciplinar  (hardware y software) de personas que representa a OSW en los hackatones donde se decide participar.
-Se intenta que el equipo haya varias personas parecidas de cada perfil para tener mayor disponiblidad de cara a eventos.
-
-  
-
-### La comunicación en OSW
-
-**Web:** 
-  - Meetup
-  - Slack
-  - Redes sociales
-    - Twitter
-    - Facebook
-  - Github
-        
-
-
-### Código de conducta
-----------------------
-
-
-### Patrocinadores
-------------------
-Qué aportan a la comunidad
-  - Recursos físicos
-  - Recursos económicos
-  - Merchandishing
-  
-
-Pendiente de revisión
----------------------
-Audio de la convesación con Carlos, Jose y Ulises
