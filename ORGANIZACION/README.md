@@ -1,6 +1,10 @@
 # Bienvenidos!
 
 **Estes es el sitio bueno!**
+**Uptdates 4/09/17**
+Actualizada la info general de Welcome guide con la entrevista de audio de junio
+Falta desarrollar las secciones por separado. Cuando ocurra se puede terminar de poner toda la info del audio.
+Afecta a Comuniación, descripción de la agenda un día de evento, Funcionamiento de un grupo de trabajo, Cómo ser sponsor y no morir en el intento.
 
 **Uptdates 10/06/17**
 Participantes -Pepe.S, Ulises, Jose, Carlos
