@@ -109,31 +109,65 @@ Plataforma para anunciar los eventos y coordinar la asistencia y resolver dudas 
 Servicio web gratuito utilizado para documentar los proyectos que se desarrollan dentro de OSW
 
   
-  
-  ---------------------
-Pendiente de amplización revisión con notas de audio correspondientes a la audio entrevista de junio
-Audio de la convesación con Carlos, Jose y Ulises
+
+---------------------
+Secciónes pendientes de desarrollo en github tanto en forma como contenido. 
+info Basada en Audio de la convesación con Carlos, Joserif y Ulises,
 -----------
 
 # Eventos
+Tienen lugar un sábado al mes y suelen durar  toda la mañana y suelen realizarse en algún centro de coworking o formación.
+Los organiza la comunidad para verse las caras y ponerse al día de todo, estrechar lazos y comer juntos.
 
-Agenda del evento
-- Presentación y resumen de novedade
-- Presentación de propuestas de proyectos y proyectos externos que piden ayuda.
-- Micro talleres y charlas
-  - Selección de temas y ponentes
-  - Simultaneidad hasta 4
-  - Sponsorización de gastos de ponentes.
-  - Contenidos: convivencia con OS y publicación de slides
-  - Ejemplos de temáticas
+Si vienes a uno de nuestros eventos esto es lo que puedes encontrar.
 
+**Presentaciones (15 min)**
+
+La organización da la bienvenida a los nuevos miembros y resumen las novedades acontecidas el último mes. A continuación se presenta a los patrocinadores para comentar lo que hacen y lo que aportan a la comunidad.
+
+También se permite a miembros y colectivos externos presentar sus proyectos personales para pedir ayuda o colaboración de cara a motnar un grupo de trabajo. Se hace con pitch de unos 3 min/proyecto.
+
+**Microtalleres y charlas (45min)**
+
+Son presentaciones sobre alguna temática o herramienta concreta. El evento y sus presentaciones son comentados y compartidos por el canal #directo de slack.
+
+Suelen realizarse entre 2 y 4 presntaciones simultáneas pero no se graba ni sube a internet ninguna de ellas. La idea es que los miembros se junten luego para comentarlas e intercambiar aprendizajes.
+
+Los temas se pueden proponer en la comunidad y pueden ser de cualquier tipo (Software, criptomonedas, periodismo de datos, mundo maker, big data, IA, energía, cartografía, Biología, wikipedia...) A final se trata de aprender entre todos.
+
+El contenido debe versar sobre proyectos open, aunque parte de las herramientas para su desarrollo sean privativas. La única norma es que el contenido de la presentación debe ser público y accesible para la cumunidad.
+
+En el futuro algunos temas podrán ser sponsorizados por los patrcinadores de modo que puedan venir a MAdrid ponentes de categoría o de fuera.
+
+**Comida (1.5h)**
+Uno de los momentos más importantes de la jornada.
+Se cambia el conocimiento  por la interacción personal para conocer a otros miembros de la comunidad intercambiar impresiones y todo ello amenizado con comida internacional y algunas bebidas fresquitas!!
 
 # Comunicación (Ampliar cada canal y adjuntar guía de iniciación para novatos)
 
 **Web:**
+[http://osweekends.com/](http://osweekends.com/)
+
+Es un lugar donde poder centralizar y acceder a todos los medios con los que se comunican OSW y sus miembros.
+También aparecen nuestros proveedores y *proximamente enlaces a los proyectos lanzados a producción*
+
 **Meetup**
+[https://www.meetup.com/es-ES/Open-Source-Weekends/](https://www.meetup.com/es-ES/Open-Source-Weekends/)
+
+Plataforma para organización de eventos, a través de ella se anuncian las fechas para los próximos encuentros y se acceder al perfil de cada miembro. Ocasionalmente también se publican algunas fotos del evento.
+
+Registrándote en la plataforma y concretamente en la comunidad de OSW te conviertes automáticamente en miembro de la misma.
+
+Puedes consutlar tus dudas aquí [Ayuda meetup](https://www.meetup.com/es-ES/help/)
+
+
 **Slack**
-  - Canales
+Qué es
+Para que se usa
+Cómo se usa - ayuda slack link
+Cómo se usa en OSW
+
+- Canales
     - #General: para presentaciones de los miembros y dudas concretas
     - #Directo: para comentar en los eventos y subir enlaces de las presentaciones
     - #Randon: Para cualquer broma o publicación interesante que quieras compartir con la comunidad.
@@ -146,12 +180,22 @@ Agenda del evento
     - Los canales principales se mantienen, lo que no se usan son purgados cada 2 o 3 meses.
   - Cada proyecto tiene su propio canal.
 
-**Redes sociales**
-  - **Twitter** 
-  - **Facebook**
+**Twitter** 
+
+Qué es
+Para que se usa
+Cómo se usa - ayuda slack link
+
+**Facebook**
+
+Qué es
+Para que se usa
+Cómo se usa - ayuda slack link
+
 **Github**
 
 # Grupos de trabajo
+
 Cómo proponer
 Creación del equipo y asignación de los coordinadores.
 Creación del canal
