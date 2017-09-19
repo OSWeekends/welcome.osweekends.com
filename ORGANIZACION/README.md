@@ -1,6 +1,14 @@
 # Bienvenidos!
+**Bitácora de cambios**
 
-**Estes es el sitio bueno!**
+**Uptdates 19/09/17**
+Cambio del repositorio a la organización de OSW
+Fichaje de Ana y Elena
+Incorporación a trello.
+Actualización del readme general
+Actualización del readme de la sección 1 Acerca de... separando el contenido de la sección de las notas para otras secciones.
+
+
 **Uptdates 4/09/17**
 Actualizada la info general de Welcome guide con la entrevista de audio de junio
 Falta desarrollar las secciones por separado. Cuando ocurra se puede terminar de poner toda la info del audio.
@@ -19,8 +27,10 @@ Arrancamos porfin la sección "Sobre open source weekends" donde explicamos en q
 Mind map con temas a desarrollar.
 https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf
 
-
+------------------------------
 **En que consiste OSW - Bienvenidos"
+------------------------------
+
 El proyecto busca facilitar la compresión de como nace y se estructura la comunidad OPEN SOURCE WEEKENDS para que pueda acercarse gente de diferente ambitos no tecnológicos.
 
 **Objetivo**
@@ -36,16 +46,11 @@ Generar una web documentada en Github donde se dé una idea clara que qué OSW, 
   - Material gráfico (fotos, ilustraciones y gráficos) para la maquetación final.
 
 **Quíen participa en este proyecto:**
-Equipo: Ulises y Pepe
-Coordinador - Ulises
-Gestión y documentación - Pepe
-Traducción - Laetitia y google
+Equipo: Ulises, Pepe, Elena y Ana
 
 **Flujo de trabajo en OSW Guidelines**
-Reunión semanal de 1h (jueves 8:30) Google campus Madrid
-Revisión de tareas de trello asignadas
-Definición de nuevas tareas
-Concreción de: qué quién, cuándo y cómo.
+Reunión semanal  Google campus Madrid
+Revisión de tareas antiguas y nuevas
 
 **Herramientas que usamos**
 - Comunicación Slack
@@ -55,8 +60,7 @@ Concreción de: qué quién, cuándo y cómo.
 **Cómoo usamos trello**
 - Coordinador de Trello - Crea y asigna las tarjetas / tareas
 - Board - Panel con toda la estructur
-- Columnas - Estado de las taréas (INBOX, congelador, Calendario, En proceso, Hecho, Archivar)
-- Labels de colores - Cada color representa una sección del proyecto a desarrollar. El Negro repreenta temas de coordinación interna, no una sección del proyecto.
-- Tarjetas / task - Taréas a desarrollar y asignadas por el coordinador a una persona con una fecha de entrega.
+- Columnas - Tareas por sección
+- Tarjetas / task - Taréas a desarrollar y asignadas a una persona
 - Due date - Fecha límite para la entrega.
 - Usuario asignado - Responsable de la tarjeta y su contenido.
