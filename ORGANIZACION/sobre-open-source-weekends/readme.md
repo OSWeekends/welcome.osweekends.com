@@ -111,15 +111,16 @@ Servicio web gratuito utilizado para documentar los proyectos que se desarrollan
   
 
 ---------------------
-Secciónes pendientes de desarrollo en github tanto en forma como contenido. 
-info Basada en Audio de la convesación con Carlos, Joserif y Ulises,
+Secciónes pendientes de crear y desarrollar en github. 
+Voy dejando notas mientras tanto
 -----------
 
-# Eventos
+# SECCIÓN EVENTOS
+
 Tienen lugar un sábado al mes y suelen durar  toda la mañana y suelen realizarse en algún centro de coworking o formación.
 Los organiza la comunidad para verse las caras y ponerse al día de todo, estrechar lazos y comer juntos.
 
-Si vienes a uno de nuestros eventos esto es lo que puedes encontrar.
+Si vienes a uno de nuestros eventos esto es lo que puedes encontrar. (estructura)
 
 **Presentaciones (15 min)**
 
@@ -143,7 +144,9 @@ En el futuro algunos temas podrán ser sponsorizados por los patrcinadores de mo
 Uno de los momentos más importantes de la jornada.
 Se cambia el conocimiento  por la interacción personal para conocer a otros miembros de la comunidad intercambiar impresiones y todo ello amenizado con comida internacional y algunas bebidas fresquitas!!
 
-# Comunicación (Ampliar cada canal y adjuntar guía de iniciación para novatos)
+
+
+# SECCIÓN COMUNICACIÓN Comunicación (Ampliar cada canal y adjuntar guía de iniciación para novatos DE SLACK)
 
 **Web:**
 [http://osweekends.com/](http://osweekends.com/)
@@ -159,7 +162,6 @@ Plataforma para organización de eventos, a través de ella se anuncian las fech
 Registrándote en la plataforma y concretamente en la comunidad de OSW te conviertes automáticamente en miembro de la misma.
 
 Puedes consutlar tus dudas aquí [Ayuda meetup](https://www.meetup.com/es-ES/help/)
-
 
 **Slack**
 Qué es
@@ -194,8 +196,10 @@ Cómo se usa - ayuda slack link
 
 **Github**
 
-# Grupos de trabajo
+# sSCCIÓN GRUPOS DE TRABAJO
 
+Deiferencias con guild y actualización de últimos cambios
+¿Metemos aquí enlace a Guild y proyectos? [https://github.com/OSWeekends/Organizacion/tree/master/guilds%20y%20proyectos]
 Cómo proponer
 Creación del equipo y asignación de los coordinadores.
 Creación del canal
@@ -206,7 +210,7 @@ Pautas y recomendaciones.
 ¿Poner un ejemplo?
 
 
-# Patrocinadores (Desarrollar Sección específica)
+# PATROCINADORES (Desarrollar Sección específica)
 Qué aportan a la comunidad
   - Recursos físicos
   - Recursos económicos
