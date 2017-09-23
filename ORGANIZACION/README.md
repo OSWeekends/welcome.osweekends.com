@@ -1,5 +1,23 @@
-# Bienvenidos!
+# Welcome!
 **Bitácora de cambios**
+
+**Uptdates 21/09/17**
+Reunión Ulises, Elena, Ana y Pepe para organizar las próximas secciones
+El orden puede variar.
+
+  - Sección 1 Acerca de OSWeekends / Intro - Hay que dejar puesto lo justo para explicar de un vistazo en qué consiste y como se organiza.
+  - Sección 2 - Comunicación - Nombrar los medios que usa OSW para comunicarse, comentar lo más importante de cada uno e incluir guías de uso para cada uno.
+  - Sección 3 - Guilds - Explicar bien que es un guild y como funciona. Tenemos notas previas de Ulises para pegar pero le daremos una vuelta con este proyecto y su desarrollo. 
+  Conceptos sobre los que hablar Lideres del guild, Contributors, alcance, comunidades implicadas, proyectos de ejemplo (Welcome (pequeño), wikinews (8 a 12 personas y 3 comunidades), gingercode (larga duración, cientos de personas y 1 comunidad)...
+  
+  - Sección  4 - Codigo de Honor - Se adoptará el Campus Madrid por ahora.
+  - Sección 5 - Patrocinadores - Explicar como funciona y como se puede ser patrocinador de OSW e inluir el  link a la presentación de Ulises para el marketing de patrocinadores.
+  
+  - Sección 6 - Equipo de Hackacatones
+  - Sección  7 ....
+
+Trasladados los enlaces de interés del gdoc a este documento (ver más abajo) para simplificar.
+
 
 **Uptdates 19/09/17**
 Cambio del repositorio a la organización de OSW
@@ -28,7 +46,28 @@ Mind map con temas a desarrollar.
 https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf
 
 ------------------------------
-**En que consiste OSW - Bienvenidos"
+**Links de interés"**
+------------------------------
+**Mapa conceptual**
+https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf
+
+**Enlaces de interés a otras webs**
+(Penga el vínculo a la web o recurso y comenta brevemente qué aporta)
+
+Guia de Markdown
+  - General http://www.markdowntutorial.com/
+  - Para Trello http://help.trello.com/article/821-using-markdown-in-trello
+
+  - Open source Guide http://www.dwyl.io/
+    Forma gráfica de presentar las secciones basada en Mackdown luego en Guithub
+    Sirve para tomar referencias de textos en inglés para decir lo mismo
+    
+  - Transparencia en la gestión de Recursos Financieros - https://opencollective.com/learn-more
+  - Memoria anual - http://opensourcesurvey.org/2017/
+  
+
+------------------------------
+**En que consiste OSW - Welcome"**
 ------------------------------
 
 El proyecto busca facilitar la compresión de como nace y se estructura la comunidad OPEN SOURCE WEEKENDS para que pueda acercarse gente de diferente ambitos no tecnológicos.
