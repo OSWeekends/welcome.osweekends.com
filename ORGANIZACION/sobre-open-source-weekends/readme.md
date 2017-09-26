@@ -1,21 +1,21 @@
 # Sobre Open Source Weekends
 
-**Aprense sobre OSw... historia, posibilidades, grupos de trabajao, etc...**
+**Aprende sobre OSw... historia, posibilidades, grupos de trabajao, etc...**
 
 ### Qué es osw
-(Pongo copia del mensaje de Open source design
-We are a community of designers and developers pushing more open design processes and improving the user experience and interface design of open source software.)
+(Pongo copia del mensaje de Open Source design
+We are a community of designers and developers pushing more open design processes and improving the user experience and interface design of Open Source software.)
 Es una comunidad de personas que ayuda a la sociedad fomentando el uso y el aprendizaje de herramientas de software y hardware libre
 
-### Cómo surge 
-Los creadores de OSW son un grupo de amigos que se reunían regularmente en bares para compartir unas cervezas y una buena conversación sobre el open source y sus consecuencias en el mundo actual.
+### Cómo surge
+Los creadores de OSW son un grupo de amigos que se reunían regularmente en bares para compartir unas cervezas y una buena conversación sobre el Open Source y sus consecuencias en el mundo actual.
 
-En los eventos relacionados a los que asistían sólo hablaba el ponente mientras el resto del público ténia que escuchar lo que decía fuera interesante o no. De modo que buscaron por todos lados comunidades similares sobre este tema donde todos pudieran participar y debatir de igual a igual. 
+En los eventos relacionados a los que asistían sólo hablaba el ponente mientras el resto del público ténia que escuchar lo que decía fuera interesante o no. De modo que buscaron por todos lados comunidades similares sobre este tema donde todos pudieran participar y debatir de igual a igual.
 
-Al no encontrarla decidieron crearla ellos mismos. 
+Al no encontrarla decidieron crearla ellos mismos.
 
 ### Para qué
-OSW surje como una comunidad que se reune físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el open source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo.
+OSW surge como una comunidad que se reúne físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el Open Source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo.
 
 En definitiva: pasarlo bien!
 
@@ -29,12 +29,12 @@ https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70
 Son los fundadores de la comunidad.
 Core actual: Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
 
-Se encargan de coordinar y gestionar toda la actividad tanto online como offline de los enventos.Esto incluye buscar espacios para eventos, el catering, planificar las ponencias y talleres prácticos, la logística de los equipos de vídeo, la negociación con los sponsors,  colaboraciones con otras comunidades y evangelizar sobre open source.
+Se encargan de coordinar y gestionar toda la actividad tanto online como offline de los enventos.Esto incluye buscar espacios para eventos, el catering, planificar las ponencias y talleres prácticos, la logística de los equipos de vídeo, la negociación con los sponsors,  colaboraciones con otras comunidades y evangelizar sobre Open Source.
 
 **2. Miembro**
 
 Persona apuntada al meetup de OSW.
-Constituyen la base de la comunidad, de aquí surgen todas las ideas, debates proyectos y aportaciones al mundo open source.
+Constituyen la base de la comunidad, de aquí surgen todas las ideas, debates proyectos y aportaciones al mundo Open Source.
 
 **3. Contribuidor**
 
@@ -60,12 +60,12 @@ Son otros colectivos que comparten intereses, inquietudes, y una buena relación
 
 **7. Patrocinadores o Sponsors**
 
-Son empresas que aportan recursos **no económicos** para facilitar el desarrollo de los eventos y proyectos de OSW. 
+Son empresas que aportan recursos **no económicos** para facilitar el desarrollo de los eventos y proyectos de OSW.
 Algunos de estos recursos son:
  - Merchandising empresarial como tazas, pegatinas, camisetas.
  - Pago del cátering
  - Servicios tecnológicos para poner en producción los proyectos de OSW (dominios hosting, almacenamiento y procesamiento en la nube)
-    
+
 ### Qué se hace en OSW
 
 **Eventos**
@@ -74,16 +74,16 @@ Algunos de estos recursos son:
 
 **Proyectos**
 
-Pueden ser de software o hardware y sirven para aprender y participar todos juntos. Surgen entorno a intereses o temáticas concretas (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...). 
+Pueden ser de software o hardware y sirven para aprender y participar todos juntos. Surgen entorno a intereses o temáticas concretas (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...).
 
 Tipos de proyectos que se desarrollan en OSW
     - Proyectos propios de OSW (Kooper)
-    - Proyectos de comunidades hermanadas 
+    - Proyectos de comunidades hermanadas
     - Proyectos de terceros que solicitan visibilidad y ayuda (Café solidario)
 
 **Grupos de trabajo**
 
-Se componen por grupos de personas para trabajar sobre un proyecto. 
+Se componen por grupos de personas para trabajar sobre un proyecto.
 Cada grupo está compuesto por los miembros que lo desarrollan y al menos 2 senior en el tema para resolver dudas y orientar a los demás.
 
 
@@ -95,7 +95,7 @@ Es un lugar donde poder centralizar todos los medios con los que se comunican OS
 
 **Meetup**
 
-Plataforma para anunciar los eventos y coordinar la asistencia y resolver dudas relacionadas. En ocasiones se suben foto y vídos del propio evento. 
+Plataforma para anunciar los eventos y coordinar la asistencia y resolver dudas relacionadas. En ocasiones se suben foto y vídos del propio evento.
 
 **Slack**
 
@@ -103,15 +103,15 @@ Plataforma para anunciar los eventos y coordinar la asistencia y resolver dudas 
 
   - **Twitter** Medio principal para conectar con terceros y contar que está pasando en OSW.
   - **Facebook** Medio para publicar fotos y vídeos de los eventos, eventualmente también se realiza alguna que otra comunicación.
-  
+
 **Github**
 
 Servicio web gratuito utilizado para documentar los proyectos que se desarrollan dentro de OSW
 
-  
+
 
 ---------------------
-Secciónes pendientes de crear y desarrollar en github. 
+Secciónes pendientes de crear y desarrollar en github.
 Voy dejando notas mientras tanto
 -----------
 
@@ -182,7 +182,7 @@ Cómo se usa en OSW
     - Los canales principales se mantienen, lo que no se usan son purgados cada 2 o 3 meses.
   - Cada proyecto tiene su propio canal.
 
-**Twitter** 
+**Twitter**
 
 Qué es
 Para que se usa
@@ -225,4 +225,3 @@ Quién coordina.
     - Como se comunican
     - Cómo se organizan
     - Cómo documentan
-    
