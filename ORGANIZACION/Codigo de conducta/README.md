@@ -1,69 +1,51 @@
 **PENDIENTE DE ACTUALIZAR TEXTOS
 
-Welcome to Open Source Weekens! We’re a connector for early stage entrepreneurs, helping you find what you need to succeed, from a support network to education, mentoring and more. 
+Welcome to Open Source Weekens (OSW in advence)! We’re a connector for communities related with open source movement, helping you find what you need to succeed, from a support network to mentoring and more. 
 
-Our members make the community what it is, and we ask you to agree to follow these simple guidelines to keep Campus a great place to work and play. 
+Our members make the community what it is, and we ask you to agree to follow these simple guidelines to keep OSW events a great place to work and play. 
 
-Please note that these Community Guidelines may be amended from time to time and the amended guidelines will become effective 14 days after the amendment date.  You should regularly check back to read these Community Guidelines to ensure that you are up to date with the latest version of the guidelines. 
+Please note that these Community Guidelines may be amended from time to time. You should regularly check back to read these Community Guidelines to ensure that you are up to date with the latest version of the guidelines. 
 
-In general
+**In general
+
 Please be kind to our staff and other community members. 
+
 The best things come to those who collaborate. Meet your neighbors, whether that’s saying “hi” in the cafe, or taking time to know the person sitting next to you. 
+
 We know the cafe gets busy, so share the space and be respectful and not too noisy - people around you are probably working “on the next big thing”
-Done with your cup? Give us a hand and clean it up. 
+
+Done with your cup? Give us a hand and clean it up.
+
 Please inform reception in case you detect any facilities issues (water leakage, electrical failure, etc).
-Cafe membership gives you cafe access, but please don’t use rooms outside the cafe; those are for the resident partner members and Google staff. 
-Don’t smoke us out. Please, no smoking on Campus premises. 
-Bringing press? Please let us know at least 2 business days in advance  so we can look our best by emailing press@google.com.
-We’re your community, not your business; Please do not use Campus as your registered address for your company, or for any personal use.
-From time to time, we may have photographs taken at Campus.  We reserve the right to use photographs to publish or promote Campus via the Campus or Google for Entrepreneurs websites, and other marketing channels. If you appear in one of those photographs and want us to remove it, please notify us.
-We remind you that it is forbidden to use our infrastructures and the Wi-Fi network for any illegal activity. As you know, the download of content with copyright is illegal. The offender will indemnify Google for any damages, costs or expenses Google suffers arising from any illegal activity carried out by the offender within our building. Google reserves the right to withdraw your Campus membership at any time.
-Can’t get along? We reserve the right to withdraw your Campus membership at any time if you act in an antisocial manner or in such a way that would cause disruption to the building or other Campus members. .
-We reserve the right to terminate Campus memberships at our sole discretion.
 
-Bikes
+_Cafe membership gives you cafe access, but please don’t use rooms outside the cafe; those are for the Google resident partner members and Google staff. 
 
-We have bike storage on site for our residents so you have somewhere to store your ride. 
-Our bike storage space is secure, but we recommend you still use a bike lock. Campus can’t accept any responsibility or liability for bikes stored here. 
-Please don’t treat the loading bay as storage, especially for overnight stays.
-Only use the bike racks we’ve provided for you in the basement. Please use the Moreno Nieto entrance and the staircase to bring your bike up and down.
-Please don’t chain your bike to any other area at Campus; any bikes found stored anywhere besides the rack will be removed.
+_Don’t smoke us out. Please, no smoking on Campus premises. 
 
-Dogs
+From time to time, we may have photographs taken at Campus.
 
-We love having dogs in the building but please do check with the Campus Facilities Manager or Reception first. Also, before you bring your dog to work, please read the following guidelines carefully.  Remember, unless yours is a service dog, the needs of humans do take precedence. No other pets or animals (cats, iguanas, rabbits, etc) are allowed in the building. 
-Bringing a dog to work should be an occasional practice, not an everyday occurrence. 
-Please check with those around you that they are okay with your dog, and ensure nobody has concerns or allergies.
-Dogs need to be supervised at all times:
-Dogs should be on a leash at all times. Please don’t leave your dog unattended or let him or her wander the building (it goes without saying, but please don’t leave your dog at Campus overnight). Also, don’t leave your dog tied to anything for longer than 30 minutes.  
-Dogs aren’t allowed in bathrooms, showers, cafe area, micro kitchen or event spaces. 
-Owners must bring their own items to hydrate and clean their dogs.
-Owners must clean up after their pet at all times. 
-Dogs need to be properly vaccinated and owners must maintain adequate insurance for their pets. 
-Google does not assume responsibility for any pet. 
-There are a few instances for which we reserve the right to un-invite your dog from the building:
-Aggressive behaviour such as growling, barking or chasing. After the first complaint, you may be asked to take your dog home and, if there are nips or bites, the dog won’t be allowed to return. 
-Any negative attribute (such as excessive odour) may be grounds for doggie dismissal. 
-If your pet poops, pees or vomits indoors, they’ll be asked to go home and not return. Pet owners are financially responsible for any damage or cleaning to Campus, including odour removal and excessive pet hair.
-Dogs with evidence of fleas will be asked to go home until the problem is resolved
+We reserve the right to use photographs to publish or promote what happend inside OSW events on our websit and marketing channels. If you appear in one of those photographs and want us to remove it, please notify us.
+
+We remind you that it is forbidden to use our infrastructures and the Wi-Fi network for any illegal activity. As you know, the download of content with copyright is illegal.
+
+Can’t get along? We reserve the right to withdraw your membership at any time if you act in an antisocial manner or in such a way that would cause disruption to other OSW members.
 
 Security
 
-We want you and your laptop to be safe, and our security team are here round the clock to provide advice and guidance. You’re responsible for your security in the building, and we trust your common sense will help us keep the building secure. 
+You’re responsible of your labtop and yout stuff during the events, we trust your common sense. 
 
-Within Campus, there are some doors that require a resident’s badge to open (for example, the front door outside of our regular opening hours).
-Make sure to read the Emergency Plan Instructions available here. 
-Don’t let other people follow you through a secure door without first making sure they’re authorized to enter. This is known as tailgating. 
-Campus members are responsible for their guests, and should escort them where possible.
-If another community member asks to see your badge, don’t be offended. They’re just helping us keep the building safe. 
-Don’t prop secure doors open, or otherwise interfere with their locking mechanism, unless there’s a real emergency. 
-Always make sure secure doors are fully closed.
-Please be considerate of other wifi users; don’t use it excessively, or download illegal content. 
-Members must not attempt to bypass access control mechanisms (such as locks, passwords, encryption and access control lists), but should seek authorization from the appropriate party (Campus security). 
-Please report any lost or stolen items to Campus Security immediately.
-If you encounter suspicious persons or other security incidents, please report to Campus Security immediately.
-Our community of Campus members share responsibility for our security. Members who discover, or are aware of, aspects of Campus’ security that should be improved or any security breach (such as someone in the building who shouldn’t be here) are expected to communicate with the responsible parties and take action to ensure that the necessary improvements are made.
-Campus may need to adjust policies over time as the building and best practices evolve. 
+OSW members are responsible for their guests, and should escort them where possible.
+
+Please be considerate of other wifi users; don’t use it excessively, or download illegal content.
+
+Please report any lost or stolen items to OSW staff immediately.
+
+If you encounter suspicious persons or other security incidents, please report OSW Staff immediately.
+
+**Revisado!!
+---------------
+**Pendiente de revisión
+
 DISCLAIMER: Campus is an optional service. You choose to participate at Your own risk. You agree to be solely responsible for Your own safety and to take every precaution to provide for Your own safety and well-being while participating in the program and agree to comply with all terms, obligations and requirements of this Agreement and applicable laws and regulations. Except as otherwise required by law, Google does not assume responsibility for determining the suitability of the program for You. You acknowledge that Google does not (a) conduct any criminal, insurance or other background checks on program participants, (b) assume any responsibility for determining the suitability of the program for you or your ability to participate in the program, or (c) assume any obligation to take any steps to ensure your safety during your use of the program. You understand that the activities or functions in which you participate related to the program may be inherently dangerous and can cause serious or grievous injuries, including bodily injury, damage to personal property and/or death. Google does not assume any liability for any injury or harm, or property damage that may result from your use of the program, unless otherwise required by applicable law, and as a condition of using the program, to the fullest extent permitted by applicable law, you specifically waive any claim you might have against Google for damages or other remedy arising from any such injury, death, or property damage, with the exception of acts of gross negligence or intentional misconduct by Google, its agents and representatives.
 
 For Cafe members: 
