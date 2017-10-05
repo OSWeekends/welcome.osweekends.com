@@ -1,6 +1,10 @@
 # Welcome!
 **Bitácora de cambios**
 
+
+**Uptdates 21/09/17**
+Pepe - pegado código de conducta de campus. Está pendiente de revisar y hacer adaptaciones.
+
 **Uptdates 21/09/17**
 Reunión Ulises, Elena, Ana y Pepe para organizar las próximas secciones
 El orden puede variar.
