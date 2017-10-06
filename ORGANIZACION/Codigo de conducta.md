@@ -1,8 +1,8 @@
 **PENDIENTE DE ACTUALIZAR TEXTOS
 
-Welcome to Open Source Weekens (OSW in advence)! We’re a connector for communities related with open source movement, helping you find what you need to succeed, from a support network to mentoring and more. 
+Welcome to Open Source Weekens (OSW in advance)! We’re a connector for communities related with open source movement, helping you find what you need to succeed, from a support network to mentoring and more. 
 
-Our members make the community what it is, and we ask you to agree to follow these simple guidelines to keep OSW events a great place to work and play. 
+Our members make the community what it is, and we ask you to agree to follow these simple guidelines to make working and playing inside OSW events keep going an amazing experience. 
 
 Please note that these Community Guidelines may be amended from time to time. You should regularly check back to read these Community Guidelines to ensure that you are up to date with the latest version of the guidelines. 
 
@@ -18,13 +18,8 @@ Done with your cup? Give us a hand and clean it up.
 
 Please inform reception in case you detect any facilities issues (water leakage, electrical failure, etc).
 
-_Cafe membership gives you cafe access, but please don’t use rooms outside the cafe; those are for the Google resident partner members and Google staff. 
 
-_Don’t smoke us out. Please, no smoking on Campus premises. 
-
-From time to time, we may have photographs taken at Campus.
-
-We reserve the right to use photographs to publish or promote what happend inside OSW events on our websit and marketing channels. If you appear in one of those photographs and want us to remove it, please notify us.
+From time to time, we may have photographs taken during the envents. We reserve the right to use photographs to publish or promote what happend inside OSW events on our websit and marketing channels. If you appear in one of those photographs and want us to remove it, please notify us.
 
 We remind you that it is forbidden to use our infrastructures and the Wi-Fi network for any illegal activity. As you know, the download of content with copyright is illegal.
 
@@ -47,24 +42,36 @@ Directrices de la Comunidad OSW
  
 General
  
-¡Bienvenido a Campus! Somos un conector para emprendedores en una fase temprana de su desarrollo empresarial y te ayudamos a encontrar lo que necesitas para tener éxito, desde una red de apoyo hasta formación y tutorías, entre otras cosas.
- 
-Nuestros miembros son los que hacen la comunidad como es y te pedimos que aceptes seguir estas simples directrices para que Campus siga siendo un lugar excelente para trabajar y jugar.
+¡Bienvenido a Open source weekends (OSW en adelante)! Somos un conector para comunidades relacionadas con el movimiento open, ayudandote a encontrar lo que necesitas para ser exitoso, desde una red de soporte a tus proyetos hasta mentoting y mucho más. 
+
+Nuestros miembros son los que hacen la comunidad como es y te pedimos que aceptes seguir estas simples directrices para que trabajar y jugar durante los eventos de OSW siga siendo una experiencia increible.
  
 En general
  
 Sé respetuoso, con nuestro personal y con otros miembros de la comunidad.
+
 Las mejores cosas les suceden a aquellos que colaboran. Conoce a tus vecinos, ya sea saludándoles en el Café, o tomándote tu tiempo para conocer a la persona que se sienta a tu lado.
+
 Sabemos que el Café se llena de gente, así que comparte el espacio, sé respetuoso y no hagas demasiado ruido; las personas que tienes a tu alrededor pueden estar trabajando en algo grande.
+
 ¿Has acabado con la taza? Échanos una mano y recógela.
+
 Por favor informa en recepción si detectas algún fallo en las instalaciones (como un fallo eléctrico, escape de agua, etc.).
-Ser miembro del Café te da acceso a él, pero no uses las salas de fuera; esas son para los miembros residentes de los partners de Google y para el personal de Google.
-No nos ahumes. No fumes en las instalaciones de Campus.
-¿Traes a la prensa? Por favor dínoslo, por lo menos con dos días de antelación enviándonos un correo electrónico a press@google.com, para que podamos mostrar nuestra mejor cara.
+
 Somos tu comunidad, no tu empresa; no uses Campus como domicilio social de tu empresa, ni para tu uso personal.
-De vez en cuando, podremos hacer fotos en Campus.  Nos reservamos el derecho a usar estas fotografías para publicar o promocionar Campus en los sitios web de Campus y de Google para emprendedores y en otros canales de marketing. Si apareces en una de esas fotos y quieres que la quitemos, por favor notifícanoslo.
+
+De vez en cuando  tomamos fotos durantes los eventos. Nos reservamos el derecho a usar estas fotografías para promocionar que pasa dentro de los eventos de OSW en nuestra web y canales de marketing. Si apareces en una de esas fotos y quieres que la quitemos, por favor notifícanoslo.
+
+
+
+NOS QUEDAMOS POR AQUÍ....
+-------------------------
+-------------------------
+
+
 Os recordamos que está prohibido utilizar nuestras infraestructuras y la red Wi-Fi para realizar cualquier tipo de actividad ilegal. Como sabéis, la descarga de contenido protegido por derechos de autor es ilegal, salvo que se realice desde portales que cuenten con las correspondientes autorizaciones o licencias de los titulares de derechos. El infractor indemnizará a Google por cualquier daño, perjuicio, coste o gasto en el Google incurra derivado de la realización de actividades ilegales por el infractor dentro de nuestras instalaciones y se reserva el derecho de retirarle su afiliación como miembro de Campus en cualquier momento.
 ¿No nos llevamos bien? Nos reservamos el derecho a retirar tu afiliación como miembro de Campus en cualquier momento si actúas de forma asocial o de forma que puedas causar problemas en el edificio o a otros miembros de Campus.
+
 Nos reservamos el derecho de terminar tu afiliación a Campus a nuestro exclusivo criterio.
  
 Bicis
