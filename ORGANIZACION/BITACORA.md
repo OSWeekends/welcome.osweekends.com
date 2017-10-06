@@ -1,8 +1,12 @@
 # Welcome!
 **Bitácora de cambios**
 
+**Uptdates 05/10/17**
+Pegados todos los archivos al mismo nivel para simplificar la generación de contenidos en texto.
+Termminado el copy + paste + aptación del  código de conducta en inglés y castellano, pendiente de revisión por los demás.
 
-**Uptdates 21/09/17**
+
+**Uptdates 05/10/17**
 Pepe - pegado código de conducta de campus. Está pendiente de revisar y hacer adaptaciones.
 
 **Uptdates 21/09/17**
