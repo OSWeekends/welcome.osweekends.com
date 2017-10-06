@@ -42,27 +42,8 @@ Please report any lost or stolen items to OSW staff immediately.
 
 If you encounter suspicious persons or other security incidents, please report OSW Staff immediately.
 
-**Revisado!!
----------------
-**Pendiente de revisión
 
-DISCLAIMER: Campus is an optional service. You choose to participate at Your own risk. You agree to be solely responsible for Your own safety and to take every precaution to provide for Your own safety and well-being while participating in the program and agree to comply with all terms, obligations and requirements of this Agreement and applicable laws and regulations. Except as otherwise required by law, Google does not assume responsibility for determining the suitability of the program for You. You acknowledge that Google does not (a) conduct any criminal, insurance or other background checks on program participants, (b) assume any responsibility for determining the suitability of the program for you or your ability to participate in the program, or (c) assume any obligation to take any steps to ensure your safety during your use of the program. You understand that the activities or functions in which you participate related to the program may be inherently dangerous and can cause serious or grievous injuries, including bodily injury, damage to personal property and/or death. Google does not assume any liability for any injury or harm, or property damage that may result from your use of the program, unless otherwise required by applicable law, and as a condition of using the program, to the fullest extent permitted by applicable law, you specifically waive any claim you might have against Google for damages or other remedy arising from any such injury, death, or property damage, with the exception of acts of gross negligence or intentional misconduct by Google, its agents and representatives.
-
-For Cafe members: 
-
-Cafe members are required to carry their Campus badges with them at all times.
-Cafe members must not use other people’s badges or loan their badges to others.
-
-For Partner spaces:
-
-Campus relies on visible badges to make sure only authorized people have access to your space.
-Each resident must have a Campus-issued identification badge, to be worn at all times while on the premises. Please ask reception for lanyards/badge holders if needed.
-Residents should not modify their badges in ways that interfere with the identification information (name and photo to be clearly visible).
-Residents must not use other people’s badges or loan their badges to others. 
-
-
-Directrices de la Comunidad de Campus
-Campus Madrid
+Directrices de la Comunidad OSW
  
 General
  
