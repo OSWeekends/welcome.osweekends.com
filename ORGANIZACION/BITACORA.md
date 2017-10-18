@@ -1,5 +1,32 @@
 # Welcome!
 **Bitácora de cambios**
+**Uptdates 18/10/17**
+Resumen reunión hangouts:
+Asistentes - Elena, Ana y Pepe
+__Objetivo__ - montar landing con logo y contenidos para presentar en el evento Github constellation del 6 de nov.
+Secciones a desarrollar
+  - Intro = Sobre Open source Weekends
+  - Código de conducta
+  - Eventos
+  - Comunicación
+  - Proyectos y gilds
+    - *Después de hablar con Ulises hemos acordado incluir el contenido de sus repositorios en esta sección para evitar tener contenido duplicado en variso sitios.
+    - Subsección - Qué son y como colaborar
+    - Enlace  - apúntate!
+  - Patrocinadores
+  - Pendientes de desarrollo
+    - Equipo Hackatones
+    - Planes de formación
+
+Deberes:
+  - Pepe - Generar contenidos
+  - Ana - Logo Proyecto Welcome y landing tipo open source guide.
+  - Elena - revisión de textos.
+Segimiento
+  - Slack mail y hangouts
+  
+  
+ 
 
 **Uptdates 05/10/17**
 Pegados todos los archivos al mismo nivel para simplificar la generación de contenidos en texto.
