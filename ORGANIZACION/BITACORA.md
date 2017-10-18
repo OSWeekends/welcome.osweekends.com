@@ -3,7 +3,11 @@
 **Uptdates 18/10/17**
 Resumen reunión hangouts:
 Asistentes - Elena, Ana y Pepe
+
+
 __Objetivo__ - montar landing con logo y contenidos para presentar en el evento Github constellation del 6 de nov.
+
+
 Secciones a desarrollar
   - Intro = Sobre Open source Weekends
   - Código de conducta
@@ -21,7 +25,7 @@ Secciones a desarrollar
 Deberes:
   - Pepe - Generar contenidos
   - Ana - Logo Proyecto Welcome y landing tipo open source guide.
-  - Elena - revisión de textos.
+  - Elena - Revisión de textos.
 Segimiento
   - Slack mail y hangouts
   
