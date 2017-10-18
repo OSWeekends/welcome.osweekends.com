@@ -1,6 +1,10 @@
 # Welcome!
 **Bitácora de cambios**
+
+
 **Uptdates 18/10/17**
+
+
 Resumen reunión hangouts:
 Asistentes - Elena, Ana y Pepe
 
