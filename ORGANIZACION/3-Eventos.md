@@ -1,0 +1,3 @@
+Descripción de la comunidad.
+Cómo son los eventos, qué se hace y como participar, voluntarios colaboradores, core...
+Organización y formas de colaboración
