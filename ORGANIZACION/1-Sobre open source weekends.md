@@ -8,6 +8,7 @@ SECCIÓN PENDIENTE DE REESCRIBIR
 **Aprende sobre OSW... historia, posibilidades, grupos de trabajao, etc...**
 
 ### Qué es OSW
+
 Según [Open Source Design](http://opensourcedesign.net/)
 Es una comunidad de personas que ayuda a la sociedad fomentando el uso y el aprendizaje de herramientas de software y hardware libre.
 Básicamente el Open Source se fundamenta en el compartir conocimiento y colaborar en proyectos.
@@ -17,114 +18,103 @@ Básicamente el Open Source se fundamenta en el compartir conocimiento y colabor
 Surge de las reuniones de un grupo de amigos. Buscaban comunidades donde se compartiese su interés por el Open Source de una forma horizontal, donde tod@s participaran, y al no encontrarla, decidieron montarla ellos.
 
 ### Para qué
-OSW se reúne físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el Open Source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo, y sobre todo ¡Pasarlo bien!
+OSW se reúne físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el Open Source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo, pero se trata sobre todo de ¡Pasarlo bien!
 
 ### Quíén es quién en OSW?
 
-Para tener un esquema básico de cómo se organiza OSW podemos pensar en un árbol con 4 grandes ramas principales:
+Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un árbol del que nacen varias ramas principales.
 
-**1. Comunidad:** Compuesta por todos los integrantes que se comunican por diversos canales, así como reuniones físicas.  [Mas info...](vínculo a explicación de comunidad)
-**2. Grupos de trabajo:** Con diversas perspectivas, por un lado el aprendizaje y la práctica, y por otro un equipo de representación en Hackatones. [Mas info...](vínculo a explicación de grupos de trabajo)
-**3. Proyectos:** Una amplía rama con una gran diversidad de proyectos de diferentes dimensiones y tiempos de vida. [Mas info...](vínculo a proyectos)
-**4. Proyección física:** Donde podemos ver los patrocinadores que apoyan nuestra causa y nos apoyan para realizar las reuniones mensuales. [Mas info...](Vínculo a proyección física)
 
 [Ver mapa de la organización](https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf)
 
-### Esto está genial, pero... ¿Cómo participo?
-
-Si deseas unirte a nuestra noble causa, tan sólo tienes que venir a alguna de nuestras reuniones o apuntarte a nuestro canal de Slack (ESTO TENGO Q PONERLO MEJOR. A la espera de confirmación de forma de contacto)
+Te resumimos a continuación en qué consiste cada rama. Puedes ampliar la información pinchando en los enlaces disponibles.
 
 
--------------------------------
---------------------------------
-
-# Sobre Open Source Weekends
-
-**Aprende sobre OSw... historia, posibilidades, grupos de trabajao, etc...**
-
-### Qué es osw
-(Pongo copia del mensaje de Open Source design
-We are a community of designers and developers pushing more open design processes and improving the user experience and interface design of Open Source software.)
-Es una comunidad de personas que ayuda a la sociedad fomentando el uso y el aprendizaje de herramientas de software y hardware libre
-
-### Cómo surge
-Los creadores de OSW son un grupo de amigos que se reunían regularmente en bares para compartir unas cervezas y una buena conversación sobre el Open Source y sus consecuencias en el mundo actual.
-
-En los eventos relacionados a los que asistían sólo hablaba el ponente mientras el resto del público ténia que escuchar lo que decía fuera interesante o no. De modo que buscaron por todos lados comunidades similares sobre este tema donde todos pudieran participar y debatir de igual a igual.
-
-Al no encontrarla decidieron crearla ellos mismos.
-
-### Para qué
-OSW surge como una comunidad que se reúne físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el Open Source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo.
-
-En definitiva: pasarlo bien!
-
-### Quíén es quién en OSW?
-- Anecdota del jazz de Ulises
-- Habría que hacer una introducción sobre cada una de las ramas del mindmap para que se sepa en qué consiste y qué no es.
-https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf
-
-**1. Organización (Core)**
+**Organización (Core)**
 
 Son los fundadores de la comunidad.
 Core actual: Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
 
 Se encargan de coordinar y gestionar toda la actividad tanto online como offline de los enventos.Esto incluye buscar espacios para eventos, el catering, planificar las ponencias y talleres prácticos, la logística de los equipos de vídeo, la negociación con los sponsors,  colaboraciones con otras comunidades y evangelizar sobre Open Source.
 
-**2. Miembro**
+**Comunidad:**
 
-Persona apuntada al meetup de OSW.
-Constituyen la base de la comunidad, de aquí surgen todas las ideas, debates proyectos y aportaciones al mundo Open Source.
+Está compuesta por todos los miembros apuntados al meetup. Dentro los miembros podemos distinguir a los voluntarios que ayudan al desarrollo de los eventos  y los contributors que aportan en los proyectos de OSW
 
-**3. Contribuidor**
+[Mas info sobre la comunidad...](vínculo a explicación de comunidad)
 
-Miembro que participa contribuyendo en alguno de los proyectos desarrollados en OSW.
+**Eventos**
 
-**4. Voluntario**
+- Mensuales - La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos entre otras actividades.
+  - OS-Beers: Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
+  
+[Mas info sobre los eventos...](vínculo a explicación de comunidad)
 
-Cualquier persona que ayuda en los eventos de la comunidad para que salgan adelante. No hace falta ser miembro.
 
-**5. Equipo de Hackatones**
+**2. Gulds o Gremios:** 
+
+Conforman los grupos de trabajo que desarrollan proyectos.
+Un gremio en OSW es un conjunto de personas con perfiles diferentes y complementarios para poder sacar a producción un proyecto real.
+
+[Mas info sobre proyectos y Guilds...](vínculo a explicación de comunidad)
+
+**Proyectos:**
+
+Pueden ser sobre software o hardware y sirven para aprender y participar todos juntos. Surgen de los intereses de miembros de la comunidad (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...).
+
+Se consideran proyectos los desarrollados por OSW o aquellos que OSW ayuda a desarrollar en colaboración con comunidades hermanadas. 
+
+ - Proyectos propios de OSW
+  - Kooper
+  - Ginger code
+ - Proyectos de comunidades hermanadas
+ 
+También se intenta dar visibilidad a otros proyectos de terceros que solicitan visibilidad y ayuda
+ - Café solidario
+
+[Mas info sobre proyectos y Guilds...](vínculo a explicación de comunidad)
+
+**Comunidades hermanadas**
+
+Son otros comunidades que comparten los intereses de OSW mantienen una buena relación con nuestra comunidad. Por eso se les invita a andar el camino juntos.
+- R-ladies
+- Adalab
+- Cogueenagues
+- Haskelmap
+- ...
+METER COMUNIDADES DEL OCSUMMIT17
+
+**Patrocinadores o Sponsors**
+
+Son empresas que apoyan nuestra causa y aportan recursos que nos permiten mejorar la experiencia de las reuniones mensuales.
+Algunos de estos recursos son:
+ - Merchandising empresarial como tazas, pegatinas, camisetas.
+ - Pago del cátering
+ - Gastos de transporte y alojamiento de ponentes
+ - Servicios tecnológicos para poner en producción los proyectos de OSW (dominios hosting, almacenamiento y procesamiento en la nube)
+
+[Mas info sobre patrocinadores...](Vínculo a proyección física)
+
+**Equipo de Hackatones**
 
 Es un equipo multidisciplinar  (hardware y software) de personas que representa a OSW en los hackatones donde se decide participar.
 Se intenta que el equipo haya varias personas parecidas de cada perfil para tener mayor disponiblidad de cara a eventos.
 
-**6. Comunidades hermanadas**
+Actualmente en construcción
+[Mas info de Equipo Hackatones...](vínculo a explicación de comunidad)
 
-Son otros colectivos que comparten intereses, inquietudes, y una buena relación con OSW, por eso como "hermanos" se les invita a andar el camino juntos.
-- R-ladies
-- Adalab
-- Gogueenagues
-- Haskelmap
-- ...
-
-**7. Patrocinadores o Sponsors**
-
-Son empresas que aportan recursos **no económicos** para facilitar el desarrollo de los eventos y proyectos de OSW.
-Algunos de estos recursos son:
- - Merchandising empresarial como tazas, pegatinas, camisetas.
- - Pago del cátering
- - Servicios tecnológicos para poner en producción los proyectos de OSW (dominios hosting, almacenamiento y procesamiento en la nube)
 
 ### Qué se hace en OSW
 
-**Eventos**
-  - Mensuales - La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos entre otras actividades.
-  - OS-Beers: tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
+Puedes consultar como son los eventos aquí.
 
-**Proyectos**
+### Esto está genial, pero... ¿Cómo participo?
 
-Pueden ser de software o hardware y sirven para aprender y participar todos juntos. Surgen entorno a intereses o temáticas concretas (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...).
+Si deseas unirte a nuestra noble causa, tan sólo tienes que apuntarte al meetup ENLACE, venir a alguna de nuestras reuniones y entrar en nuestro grupo de SLACK.
 
-Tipos de proyectos que se desarrollan en OSW
-    - Proyectos propios de OSW (Kooper)
-    - Proyectos de comunidades hermanadas
-    - Proyectos de terceros que solicitan visibilidad y ayuda (Café solidario)
 
-**Grupos de trabajo**
-
-Se componen por grupos de personas para trabajar sobre un proyecto.
-Cada grupo está compuesto por los miembros que lo desarrollan y al menos 2 senior en el tema para resolver dudas y orientar a los demás.
+----------------------------
+----------------------------
 
 
 ### La comunicación en OSW
@@ -236,7 +226,7 @@ Cómo se usa - ayuda slack link
 
 **Github**
 
-# sSCCIÓN GRUPOS DE TRABAJO
+# SECCIÓN GRUPOS DE TRABAJO
 
 Deiferencias con guild y actualización de últimos cambios
 ¿Metemos aquí enlace a Guild y proyectos? [https://github.com/OSWeekends/Organizacion/tree/master/guilds%20y%20proyectos]
