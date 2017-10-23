@@ -21,3 +21,12 @@ Desarrollo
 Pautas y recomendaciones.
 
 ¿Poner un ejemplo?
+
+
+(Se les complementa con perfiles que pueden faltarles) oEn ocasiones se adoptan proyectos de otras comunidades con la carencia de algún perfil concreto para completarlos. (back, front, sistemas, maquetación, logos...)
+
+Quién coordina.
+- Quién ejecuta
+    - Como se comunican
+    - Cómo se organizan
+    - Cómo documentan
