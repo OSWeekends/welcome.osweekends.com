@@ -1,5 +1,7 @@
 # Open Source Guides
 
+**This project is a modified fork from [github/opensource.guide](https://github.com/github/opensource.guide)**
+
 [![Build Status](https://travis-ci.org/github/opensource.guide.svg?branch=gh-pages)](https://travis-ci.org/github/opensource.guide)
 
 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open source project.
