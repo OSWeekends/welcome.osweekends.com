@@ -9,7 +9,7 @@ toc:
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
   build-a-reputation: "Build a reputation"
-order: 3
+order: 4
 image: /assets/images/cards/finding.png
 ---
 

@@ -2,4 +2,6 @@
 
 set -e
 
-bundle exec jekyll serve --watch --incremental --baseurl ''
+#bundle exec jekyll serve --watch --incremental --baseurl '' --host=localhost --port 8080
+
+bundle exec jekyll serve --host $IP --port $PORT --baseurl '' --watch --incrementa

@@ -7,7 +7,7 @@ toc:
   funding-your-own-time: "Funding your own time"
   finding-funding-for-your-project: "Finding funding for your project"
   building-a-case-for-financial-support: "Building a case for financial support"
-order: 7
+order: 8
 image: /assets/images/cards/getting-paid.png
 ---
 

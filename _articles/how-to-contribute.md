@@ -9,7 +9,7 @@ toc:
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
   how-to-submit-a-contribution: "How to submit a contribution"
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
-order: 1
+order: 2
 image: /assets/images/cards/contribute.png
 ---
 
