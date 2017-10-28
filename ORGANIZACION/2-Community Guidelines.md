@@ -1,5 +1,48 @@
-**PENDIENTE DE ACTUALIZAR TEXTOS
+# Guía de conducta de la comunidad OSW
 
+## ESPAÑOL
+
+### Guía de conducta de OSW
+ 
+¡Bienvenido a Open source weekends (OSW en adelante)! Somos un conector para comunidades relacionadas con el movimiento open, ayudandote a encontrar lo que necesitas para ser exitoso, desde una red de soporte a tus proyetos hasta mentoting y mucho más. 
+
+Nuestros miembros son los que hacen la comunidad como es y te pedimos que aceptes seguir estas simples directrices para que trabajar y jugar durante los eventos de OSW siga siendo una experiencia increible.
+
+Por favor ten en cuenta que esta guía de conducta de la comunidad puede cambiar de vez en cuando. Asegurate de revisarla y leerla con frecuencia para asegurarte que estás al día con la última versión.
+ 
+**En general**
+ 
+Sé respetuoso, con nuestro personal y con otros miembros de la comunidad.
+
+Las mejores cosas les pasan a aquellos que colaboran. Conoce a tus vecinos, ya sea saludándoles en el Café, o tomándote tu tiempo para conocer a la persona que se sienta a tu lado.
+
+Sabemos que el la zona del café se llena de gente, así que comparte el espacio y sé respetuoso, las personas que tienes a tu alrededor pueden estar trabajando en algo grande.
+
+¿Has acabado con la taza? Échanos una mano y recógela.
+
+Por favor informa en recepción si detectas algún fallo en las instalaciones (como un fallo eléctrico, escape de agua, etc.).
+
+De vez en cuando  tomamos fotos durantes los eventos. Nos reservamos el derecho a usar estas fotografías para promocionar que pasa dentro de los eventos de OSW en nuestra web y canales de marketing. Si apareces en una de esas fotos y quieres que la quitemos, por favor notifícanoslo.
+
+Te recordamos que está prohibido utilizar nuestras infraestructuras y la red Wi-Fi para realizar cualquier actividad de tipo ilegal.
+
+¿No nos llevamos bien? Nos reservamos el derecho a retirar tu afiliación como miembro de Campus en cualquier momento si actúas de forma antisocial o de forma que puedas causar problemas en las instalaciones o a otros miembros de Campus.
+
+**Seguridad**
+ 
+Eres responsable de tu ordenador y tus cosas durante los eventos, creemos en el senetido común.
+
+Los miembros de OSW son responsables de sus invitados y deben acompañarlos siempre que sea posible.
+
+Ten consideración con otros miembros de la red Wi-Fi; no la uses en exceso, ni descargues contenidos ilegales.
+
+Informa inmediatamente a los organizadores de OSW sobre cualquier objeto perdido o robado.
+
+Si encuentras personas sospechosas o detectas incidentes de seguridad, informa inmediatamente a los organizadores de OSW.
+
+
+
+ 
 ## ENGLISH
 
 # OSW Community guidelines 
@@ -40,47 +83,3 @@ Please be considerate of other wifi users; don’t use it excessively, or downlo
 Please report any lost or stolen items to OSW staff immediately.
 
 If you encounter suspicious persons or other security incidents, please report OSW Staff immediately.
-
-
-
-## ESPAÑOL
-
-### Guía de conducta de OSW
- 
-¡Bienvenido a Open source weekends (OSW en adelante)! Somos un conector para comunidades relacionadas con el movimiento open, ayudandote a encontrar lo que necesitas para ser exitoso, desde una red de soporte a tus proyetos hasta mentoting y mucho más. 
-
-Nuestros miembros son los que hacen la comunidad como es y te pedimos que aceptes seguir estas simples directrices para que trabajar y jugar durante los eventos de OSW siga siendo una experiencia increible.
-
-Por favor ten en cuenta que esta Guía de Comunidad puede cambiar de vez en cuando. Asegurate de revisarla y leerla con frecuencia para asegurarte que estás al día con la última versión.
- 
-**En general**
- 
-Sé respetuoso, con nuestro personal y con otros miembros de la comunidad.
-
-Las mejores cosas les pasan a aquellos que colaboran. Conoce a tus vecinos, ya sea saludándoles en el Café, o tomándote tu tiempo para conocer a la persona que se sienta a tu lado.
-
-Sabemos que el la zona del café se llena de gente, así que comparte el espacio y sé respetuoso, las personas que tienes a tu alrededor pueden estar trabajando en algo grande.
-
-¿Has acabado con la taza? Échanos una mano y recógela.
-
-Por favor informa en recepción si detectas algún fallo en las instalaciones (como un fallo eléctrico, escape de agua, etc.).
-
-De vez en cuando  tomamos fotos durantes los eventos. Nos reservamos el derecho a usar estas fotografías para promocionar que pasa dentro de los eventos de OSW en nuestra web y canales de marketing. Si apareces en una de esas fotos y quieres que la quitemos, por favor notifícanoslo.
-
-Te recordamos que está prohibido utilizar nuestras infraestructuras y la red Wi-Fi para realizar cualquier actividad de tipo ilegal.
-
-¿No nos llevamos bien? Nos reservamos el derecho a retirar tu afiliación como miembro de Campus en cualquier momento si actúas de forma antisocial o de forma que puedas causar problemas en las instalaciones o a otros miembros de Campus.
-
-**Seguridad**
- 
-Eres responsable de tu ordenador y tus cosas durante los eventos, creemos en el senetido común.
-
-Los miembros de OSW son responsables de sus invitados y deben acompañarlos siempre que sea posible.
-
-Ten consideración con otros miembros de la red Wi-Fi; no la uses en exceso, ni descargues contenidos ilegales.
-
-Informa inmediatamente a los organizadores de OSW sobre cualquier objeto perdido o robado.
-
-Si encuentras personas sospechosas o detectas incidentes de seguridad, informa inmediatamente a los organizadores de OSW.
-
-
