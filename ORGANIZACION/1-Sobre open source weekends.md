@@ -27,23 +27,34 @@ Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un �
 
 Te resumimos a continuación en qué consiste cada rama. Puedes ampliar la información pinchando en los enlaces disponibles.
 
-### Core y Comunidad
+### La Comunidad
 
-**Core:**
-Lo constituyen los fundadores de la comunidad Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
+stá compuesta por todos los miembros del meetup.
+
+**Core:** Lo constituyen los fundadores de la comunidad Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
 
 Se encargan de coordinar y gestionar toda la actividad online y offline (enventos). Es decir buscar espacios para eventos, el catering, planificar las ponencias y talleres, logística de equipos audiovisuales, negociar con los sponsors,  colaboraciones con otras comunidades y evangelizar sobre Open Source.
 
-**Comunidad:**
-Está compuesta por todos los miembros del meetup. Los miembor spueden participar como voluntarios ayudando durante los eventos o contributors aportando en los proyectos de OSW.
+**Contributors** Miembros que participan en los proyectos de OSW añadiendo contenido
+
+**Voluntarios** Personas que ayudan durante los eventos de OSW para que salgan bien.
+
+**Comunidades hermanadas** Son otros comunidades que comparten los intereses de OSW mantienen una buena relación con nuestra comunidad. Por eso se les invita a andar el camino juntos.
+
+- R-ladies
+- Adalab
+- Cogueenagues
+- Haskelmap
+- ...
+METER COMUNIDADES DEL OCSUMMIT17
 
 ### Eventos
 
-**Meetup Mensual**
-La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos.
+**Meetup Mensual** La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos.
 
-**OS-Beers:**
-Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
+**OS-Beers:** Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
+
+**Eventos con otras comunidades** Eventos a los que  asisten como invitados una representación de OSW.
   
 [Mas info sobre los eventos...](vínculo)
 
@@ -89,16 +100,6 @@ Conforman los grupos de trabajo que desarrollan los proyectos.
 Un gremio en OSW está constituido por un conjunto de personas con perfiles diferentes y complementarios para poder sacar a producción un proyecto real.
 
 [Mas info sobre Proyectos y Guilds...](vínculo)
-
-### Comunidades hermanadas
-
-Son otros comunidades que comparten los intereses de OSW mantienen una buena relación con nuestra comunidad. Por eso se les invita a andar el camino juntos.
-- R-ladies
-- Adalab
-- Cogueenagues
-- Haskelmap
-- ...
-METER COMUNIDADES DEL OCSUMMIT17
 
 ### Patrocinadores o Sponsors
 
