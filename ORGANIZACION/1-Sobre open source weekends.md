@@ -23,8 +23,6 @@ OSW se reúne físicamente al menos una vez al mes para dar cabida a todas las p
 
 Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un árbol del que nacen varias ramas principales.
 
-[Ver mapa de la organización](https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf)
-
 [Ver mapa de la organización](https://coggle.it/diagram/WfRuGnYMZQAB7JUy)
 
 Te resumimos a continuación en qué consiste cada rama. Puedes ampliar la información pinchando en los enlaces disponibles.
@@ -83,9 +81,7 @@ Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Per
 
 ### Proyectos y Guilds:
 
-**Proyectos**
-
-Pueden ser sobre software o hardware y sirven para aprender con otros.
+**Proyectos** Pueden ser sobre software o hardware y sirven para aprender con otros.
 Surgen de los intereses de miembros de la comunidad (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...).
 
 - Proyectos desarrollados por miembros de OSW
@@ -96,9 +92,7 @@ Surgen de los intereses de miembros de la comunidad (Lenguajes, piezas de hardwa
 - Proyectos agenos a OSW a los que se ayuda dando visbilidad.
   - Café solidario
 
-**Guilds**
-
-Conforman los grupos de trabajo que desarrollan los proyectos.
+**Guilds** Conforman los grupos de trabajo que desarrollan los proyectos.
 Un gremio en OSW está constituido por un conjunto de personas con perfiles diferentes y complementarios para poder sacar a producción un proyecto real.
 
 [Mas info sobre Proyectos y Guilds...](vínculo)
