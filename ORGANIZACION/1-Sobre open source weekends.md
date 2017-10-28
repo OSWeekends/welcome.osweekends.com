@@ -29,46 +29,49 @@ Te resumimos a continuación en qué consiste cada rama. Puedes ampliar la infor
 
 ### Core y Comunidad
 
-- Core: Lo constituyen los fundadores de la comunidad Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
+**Core:**
+Lo constituyen los fundadores de la comunidad Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
 
 Se encargan de coordinar y gestionar toda la actividad online y offline (enventos). Es decir buscar espacios para eventos, el catering, planificar las ponencias y talleres, logística de equipos audiovisuales, negociar con los sponsors,  colaboraciones con otras comunidades y evangelizar sobre Open Source.
 
-- Comunidad: Está compuesta por todos los miembros del meetup. Los miembor spueden participar como voluntarios ayudando durante los eventos o contributors aportando en los proyectos de OSW.
+**Comunidad:**
+Está compuesta por todos los miembros del meetup. Los miembor spueden participar como voluntarios ayudando durante los eventos o contributors aportando en los proyectos de OSW.
 
 ### Eventos
 
-- Mensuales - La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos.
+**Meetup Mensual**
+La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos.
 
-- OS-Beers: Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
+**OS-Beers:**
+Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
   
-[Mas info sobre los eventos...](vínculo a explicación de comunidad)
+[Mas info sobre los eventos...](vínculo)
 
 
 ### Comunicación en OSW:
 
-**¿Y cómo me entero de lo que pasa?
+**¿Y cómo me entero de lo que pasa?**
 
 Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Pero aunque pueda parecer caótico no lo es.
 
-- Web: Es un lugar donde centralizar todos los medios con los que se comunican OSW y sus miembros.
+[**Web:**] Es un lugar donde centralizar todos los medios con los que se comunican OSW y sus miembros.
 
-- Meetup -  Plataforma para anunciar los eventos, coordinar la asistencia y resolver dudas relacionadas.
+[**Meetup**]  Plataforma para anunciar los eventos, coordinar la asistencia y resolver dudas relacionadas.
 En ocasiones se suben foto y vídos del propio evento.
 
-- Slack - Plataforma de chat para comunicaciones de todo tipo entre miembros y proyectos.
+[**Slack:**] - Plataforma de chat para comunicaciones de todo tipo entre miembros y proyectos.
 
-- Redes sociales 
-  - Twitter Medio principal para conectar con terceros y contar que está pasando en OSW.
-  - Facebook - Medio para publicar fotos y vídeos de los eventos, eventualmente también se realiza alguna que otra comunicación.
+[**Twitter:**](Vínculo) Medio principal para conectar con terceros y contar que está pasando en OSW.
+[**Facebook:**](Vínvulo) Medio para publicar fotos y vídeos de los eventos, eventualmente también se realiza alguna que otra comunicación.
   
-- Github - la piedra angular para documentar proyectos
+[**Github:**](vínculo) la piedra angular para documentar proyectos
 
 [Mas info de Comunicacion en OSW...](vínculo)
 
 
 ### Proyectos y Guilds:
 
-**Proyectos
+**Proyectos**
 
 Pueden ser sobre software o hardware y sirven para aprender con otros.
 Surgen de los intereses de miembros de la comunidad (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...).
@@ -78,19 +81,17 @@ Surgen de los intereses de miembros de la comunidad (Lenguajes, piezas de hardwa
   - Ginger code
   - Proyectos en colaboración con comunidades hermanadas.
  
- Proyectos agenos a OSW a los que se ayuda dando visbilidad.
- - Café solidario
+- Proyectos agenos a OSW a los que se ayuda dando visbilidad.
+  - Café solidario
 
-[Mas info sobre proyectos y Guilds...](vínculo)
-
-**Guilds
+**Guilds**
 
 Conforman los grupos de trabajo que desarrollan los proyectos.
 Un gremio en OSW está constituido por un conjunto de personas con perfiles diferentes y complementarios para poder sacar a producción un proyecto real.
 
 [Mas info sobre Proyectos y Guilds...](vínculo)
 
-**Comunidades hermanadas**
+### Comunidades hermanadas
 
 Son otros comunidades que comparten los intereses de OSW mantienen una buena relación con nuestra comunidad. Por eso se les invita a andar el camino juntos.
 - R-ladies
@@ -100,7 +101,7 @@ Son otros comunidades que comparten los intereses de OSW mantienen una buena rel
 - ...
 METER COMUNIDADES DEL OCSUMMIT17
 
-**Patrocinadores o Sponsors**
+### Patrocinadores o Sponsors
 
 Son empresas que apoyan la causa aportando recursos que permiten a OSW mejorar la experiencia de la comunidad en los encuentros mensuales.
 Algunos de estos recursos son:
@@ -111,16 +112,12 @@ Algunos de estos recursos son:
 
 [Mas info sobre patrocinadores...](Vínculo a proyección física)
 
-**Equipo de Hackatones**
+### Equipo de Hackatones
 
 Es un equipo multidisciplinar  (hardware y software) de personas que representa a OSW en los hackatones donde se decide participar.
 Se intenta que el equipo haya varias personas parecidas de cada perfil para tener mayor disponiblidad de cara a eventos.
 
 Actualmente en construcción
-
-### ¿Cómo son los eventos?
-
-[Mas info sobre Eventos...](vínculo a explicación de comunidad)
 
 ### Esto está genial, pero... ¿Cómo participo?
 
