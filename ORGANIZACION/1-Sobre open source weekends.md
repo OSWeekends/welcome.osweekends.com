@@ -54,20 +54,19 @@ Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 100
 
 Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Pero aunque pueda parecer caótico no lo es.
 
-[**Web:**] Es un lugar donde centralizar todos los medios con los que se comunican OSW y sus miembros.
+[**Web:**](Vínculo) Desde donde acceder a tods los demás medios.
 
-[**Meetup**]  Plataforma para anunciar los eventos, coordinar la asistencia y resolver dudas relacionadas.
-En ocasiones se suben foto y vídos del propio evento.
+[**Meetup**](Vínculo)  Donde se anuncian los eventos y se gestiona el acceso. Ocasionamente se publican  fotos.
 
-[**Slack:**] - Plataforma de chat para comunicaciones de todo tipo entre miembros y proyectos.
+[**Slack:**](Vínculo) - Plataforma de chat para comunicaciones de todo tipo entre miembros, proyectos y guilds
 
-[**Twitter:**](Vínculo) Medio principal para conectar con terceros y contar que está pasando en OSW.
-[**Facebook:**](Vínvulo) Medio para publicar fotos y vídeos de los eventos, eventualmente también se realiza alguna que otra comunicación.
+[**Twitter:**](Vínculo) Red social para conectar con terceros y contar que está pasando en OSW.
+
+[**Facebook:**](Vínvulo) Red social donde publicar fotos y vídeos de los eventos.
   
-[**Github:**](vínculo) la piedra angular para documentar proyectos
+[**Github:**](vínculo) Plataforma para documentar los proyectos. Es la piedra angular para el trabajo de todos.
 
 [Mas info de Comunicacion en OSW...](vínculo)
-
 
 ### Proyectos y Guilds:
 
@@ -104,7 +103,9 @@ METER COMUNIDADES DEL OCSUMMIT17
 ### Patrocinadores o Sponsors
 
 Son empresas que apoyan la causa aportando recursos que permiten a OSW mejorar la experiencia de la comunidad en los encuentros mensuales.
+
 Algunos de estos recursos son:
+
  - Merchandising empresarial como tazas, pegatinas, camisetas.
  - Pago del cátering
  - Gastos de transporte y alojamiento de ponentes
@@ -117,9 +118,9 @@ Algunos de estos recursos son:
 Es un equipo multidisciplinar  (hardware y software) de personas que representa a OSW en los hackatones donde se decide participar.
 Se intenta que el equipo haya varias personas parecidas de cada perfil para tener mayor disponiblidad de cara a eventos.
 
-Actualmente en construcción
+(En construcción)
 
-### Esto está genial, pero... ¿Cómo participo?
+## Esto está genial, pero... ¿Cómo participo?
 
 Si deseas unirte a nuestra noble causa, tan sólo tienes que apuntarte al meetup ENLACE, venir a alguna de nuestras reuniones y entrar en nuestro grupo de SLACK.
 
