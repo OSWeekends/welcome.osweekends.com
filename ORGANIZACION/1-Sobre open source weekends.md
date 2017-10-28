@@ -25,6 +25,8 @@ Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un �
 
 [Ver mapa de la organización](https://coggle.it/diagram/WO3fXO56tgABc2Ej/3d20af5b36cf3e7b7a570be844721cb371f70fea75a17e47e7be2fe8964593cf)
 
+[Ver mapa de la organización](https://coggle.it/diagram/WfRuGnYMZQAB7JUy)
+
 Te resumimos a continuación en qué consiste cada rama. Puedes ampliar la información pinchando en los enlaces disponibles.
 
 ### La Comunidad
