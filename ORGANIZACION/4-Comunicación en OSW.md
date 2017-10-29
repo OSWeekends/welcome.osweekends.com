@@ -1,11 +1,9 @@
 # La comunicación en OSW
 
-
 ## Web:
 
 Es el lugar desde el cual acceder al resto de medios con los que se comunican los miembros de OSW.
 [Link](http://osweekends.com/)
-
 
 ## Meetup
 
@@ -15,9 +13,9 @@ Ocasionalmente se publican fotos y vídeos cortos del evento.
 
 Para convertirte en miembro de la comunidad de OSW registrate en la plataforma y unete al grupo.
 
-[Apúntate aquí](https://www.meetup.com/es-ES/Open-Source-Weekends/)
+[Link](https://www.meetup.com/es-ES/Open-Source-Weekends/)
 
-[Aquí](https://www.meetup.com/es-ES/help/)[
+[+Help](https://www.meetup.com/es-ES/help/)[
 
 ## Redes sociales
 
@@ -42,23 +40,34 @@ El directorio o reporsitorio principal de OSW en Github muestra un indice de pro
 
 [Link](https://github.com/OSWeekends)
 
+[+Help](https://guides.github.com/activities/hello-world/)
 
 ## Slack
 
-Qué es
-Para que se usa
-Cómo se usa - ayuda slack link
+Es la herramienta que permite a los miembros de la comunidad comunicarse entre si creando canales generales, específicos (para proyectos) y privados para 2 o más personas.
+
+[+info](https://es.wikipedia.org/wiki/Slack_(software)
+
+Ejemplos de uso: organizar los proyectos, colgar información sobre eventos, resolver dudas...
+
+Cómo acceder - [Acceso por mail](http://invitations-osweekends.herokuapp.com/)
+
+Cómo se usa
+  - [Centro de ayuda](https://get.slack.help/hc/es)
+  - [Guías de primeros pasos](https://get.slack.help/hc/es/categories/202622877)
+  
 Cómo se usa en OSW
 
-- Canales
+- Canales principales - son fijos y accesibles por todos los miembros
     - #General: para presentaciones de los miembros y dudas concretas
-    - #Directo: para comentar en los eventos y subir enlaces de las presentaciones
-    - #Randon: Para cualquer broma o publicación interesante que quieras compartir con la comunidad.
-    - #Social: Bot de twitter para los usuarios que no tienen twitter
-    - #Eventos: Para comentar eventos de interés para la comunidad
+    - #Directo: para comentar en los eventos mientras suceden, subir enlaces de las presentaciones, compartir la clave wifi, etc
+    - #Randon: Para cualquer broma o publicación que quieras compartir con la comunidad.
+    - #Social: Bot de twitter para los usuarios que no tienen twitter, ayuda a mantenerte informado de lo que pasa en OSW
+    - #Eventos: Para comentar eventos de interés para la comunidad.
     - #jobs: para la publicación de ofertas de trabajo del sector.
-    - #Propuestas de mejora: para proponer cambios o mejoras.
-  - Funcionamiento:
-    - Si la duda es concreta puedes plantearla en #general. Si va a ser recurrente sobre un tema es mejor pasar randon o abrir un canal para ello.
-    - Los canales principales se mantienen, lo que no se usan son purgados cada 2 o 3 meses.
-  - Cada proyecto tiene su propio canal.
+ - Canales específicos para cada proyectos - Se crean para cada proyecto pueden ser abiertos o cerrados.
+ - Canales espcíficos para eventos - Se crean para la ocasión y desaparecen después.
+ - Canales privados - Surgen par conversaciones privadas entre 2 o más miembros para concretar temas personales y puntuales.
+ 
+ La herramienta permite crear todos los canales que sean necesarios.
+ En OSW los canales en deshuso desparecen con una purga automatizada cada 2 meses.
