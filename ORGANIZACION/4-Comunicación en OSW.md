@@ -1,4 +1,4 @@
-# La comunicación en OSW
+# Comunicación en OSW
 
 ## Web:
 
