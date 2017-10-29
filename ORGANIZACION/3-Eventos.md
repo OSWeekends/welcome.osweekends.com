@@ -1,7 +1,7 @@
-Descripción de cómo son los eventos, qué se hace y como participar, voluntarios colaboradores, core...
 
+# EVENTOS
 
-# SECCIÓN EVENTOS
+## Mensuales
 
 Tienen lugar un sábado al mes y suelen durar  unas 5h. La convocatoria se realiza a través del [meetup de OSW](https://www.meetup.com/es-ES/Open-Source-Weekends/) y suelen realizarse en algún centro de coworking.
 Los organiza la comunidad para verse las caras y ponerse al día de todo, estrechar lazos y comer juntos.
@@ -41,3 +41,18 @@ Se cambia el conocimiento  por la interacción personal. Es el momento de conoce
 
 El core y los voluntarios de OSW recogen y limpian las instalaciones para los que puedan venir detrás.
 Toda ayuda es bien venida!!
+
+## OS-Beers
+
+Tienen lugar para celebrar logros de la comunidad como llegar al os 500 miembros en el meetup, la celebración de algún gran premio como el de la [Openexpo de 2017](http://www.openexpo.es/oe2017/homepage/). Son la escusa ideal para conocer mejor a los miembros más activos.
+
+Consisten en alguna quedada informal por los bares de la zona donde solemos concentramos y que por ahora es...
+
+*Calle Juan Duque
+
+*Barrio de La Latina
+
+## Eventos de otras comunidades
+OSW es una comunidad muy activa que hace todo lo posible or ayudar a difundir la cultura open source ayudando a sus  miembros y las  comunidades que solicitan su ayuda.
+
+La mejor manera hasta la fecha es participar en charlas y mentoring tecnológicos organizados por otras comunidades y eventos de interés
