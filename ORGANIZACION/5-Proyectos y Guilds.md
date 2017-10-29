@@ -41,6 +41,8 @@ Para ello aportamos:
 
 Queremos hacer que todo el mundo acceda más fácilmente a la comunidad Open Source y hacer posible que los contributors de hoy sean los líderes del futuro. 
 
+Presentación [#OSWGuilds](http://slides.com/tebagomez/oswguilds#/)
+
 ### ¿Qué es un Guild?
 
 Es un grupo de personas apasionadas que se unen en equipo entorno a un proyecto/s Open Source. 
@@ -91,21 +93,4 @@ Cada Guild se organiza de manera diferente con respecto a las herramientas; el e
 ### Sesiones
 
 Al margen de todo esto podemos encontrar todas las sesiones de formación impartidas para los Guilds *aquí* (próximamente)
-
---------
---------
-Fuentes
-
-**Presentación de Theba** - [#OSWGuilds](http://slides.com/tebagomez/oswguilds#/1)
-
-**Repo. Organización** - [1- Organización/guilds y proyectos](https://github.com/OSWeekends/Organizacion/tree/master/guilds%20y%20proyectos)
-
-**Repo Guils**
-  
-  - [1- OSWeekends /guilds/readme](https://github.com/OSWeekends/Guilds/blob/master/readme.md)
-  
-  - [2- OSWeekends /guilds/Unete](https://github.com/OSWeekends/Guilds/blob/master/readme.md)
-
-
-
 
