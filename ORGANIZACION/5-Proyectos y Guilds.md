@@ -1,14 +1,12 @@
-# Proyectos y Guilds
 
-## Proyectos
+>Como todo en OSW... los proyectos deberán ser Open Source, legales, éticos y sin ánimo de lucro.
+
+# Proyectos
 
 ### ¿Qué se entiende por PROYECTO?
 
 Un proyecto es la puesta en marcha de una idea.
-
 Los proyectos que apoya OSW cuenta con recursos como repositorios, subdominios, cloud, etc...
-
->Y como todo en OSW... deberán ser Open Source, legales, éticos y sin ánimo de lucro.
 
 ### ¿Qué se entiende por ORGANIZACIÓN?
 
@@ -64,15 +62,15 @@ Colaboran juntos para lograr que el proyecto se finalice y tenga éxito.
 
 ### Quiero ser contributor de un Guild
 
-> En OSW creemos que contribuir está al alcance de todo el mundo y que no siempre tiene que ser a través de código. Existen muchas formas de contribuir, ¡encuentra la tuya!.
+En OSW creemos que contribuir está al alcance de todo el mundo y que no siempre tiene que ser a través de código. Existen muchas formas de contribuir, ¡encuentra la tuya!.
 
 Lo más sencillo suele ser presentarse en el canal del proyecto en Slack y hablar con tu futuro guild. Si el proyecto carece de canal, siempre puedes [abrir un issue](https://guides.github.com/features/issues/) en su repositorio principal y pedir que te guíen.
 
 **[¡únete!](unete.md)**
 
-### Quiero liderar un Guild
+### Quiero se lider de un Guild
 
-> En OSW creemos que dentro de cada persona existe un líder natural capaz de guiar a su Guild hasta terminar el proyecto.
+En OSW creemos que dentro de cada persona existe un líder natural capaz de guiar a su Guild hasta terminar el proyecto.
 
 Lo más sencillo es buscar un proyecto que no tenga líderes por el momento y ofrecerte a liderarlo. Aunque empezar un proyecto desde cero también puede ser muy divertido. 
 
@@ -98,16 +96,15 @@ Al margen de todo esto podemos encontrar todas las sesiones de formación impart
 --------
 Fuentes
 
-**Presentación de Theba** #OSWGuilds](chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=OSWGuilds%20by%20Teba%20G%C3%B3mez&uri=http://slides.com/tebagomez/oswguilds#/11)
+**Presentación de Theba** - [#OSWGuilds](http://slides.com/tebagomez/oswguilds#/1)
 
-**Repo. Organización **
-
-[1- Organización/guilds y proyectos](https://github.com/OSWeekends/Organizacion/tree/master/guilds%20y%20proyectos)
+**Repo. Organización** - [1- Organización/guilds y proyectos](https://github.com/OSWeekends/Organizacion/tree/master/guilds%20y%20proyectos)
 
 **Repo Guils**
-
-[1- OSWeekends /guilds/readme](https://github.com/OSWeekends/Guilds/blob/master/readme.md)
-[2- OSWeekends /guilds/Unete](https://github.com/OSWeekends/Guilds/blob/master/readme.md)
+  
+  - [1- OSWeekends /guilds/readme](https://github.com/OSWeekends/Guilds/blob/master/readme.md)
+  
+  - [2- OSWeekends /guilds/Unete](https://github.com/OSWeekends/Guilds/blob/master/readme.md)
 
 
 
