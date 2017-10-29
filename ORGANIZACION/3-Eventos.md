@@ -8,7 +8,7 @@ Los organiza la comunidad para verse las caras y ponerse al día de todo, estrec
 
 Si vienes a uno de nuestros eventos esto es lo que puedes encontrar.
 
-### Presentaciones (15 min aproximadamente)
+### Presentaciones (15 a 20 min)
 
 La organización da la bienvenida a los nuevos miembros y resumen las novedades acontecidas el último mes.
 
@@ -20,7 +20,7 @@ Los miembros que proponen un nuevo proyecto disponen de ese tiempo para explicar
 
 Finalmente se presentan los colectivos algunos colectivos externos que contactaron con OSW para presentar su proyecto a OSW y pedir colaboración.
 
-### Microtalleres y charlas (45min)
+### Microtalleres y charlas (30 - 45 min)
 
 Son presentaciones sobre alguna temática o herramienta concreta. El enlace al contenido es compartido siempre a través del canal #directo en slack (la herramienta de chat / comunicación interna)
 
@@ -32,13 +32,12 @@ El contenido debe versar sobre proyectos open, aunque parte de las herramientas 
 
 En el futuro algunos temas podrán ser sponsorizados para traer al evento ponentes de categoría.
 
-### Comida (1.5h)
+### Comida (90 min)
 
 Uno de los momentos más importantes de la jornada.
 Se cambia el conocimiento  por la interacción personal. Es el momento de conocer a otros miembros de la comunidad e intercambiar impresiones. Todo ello amenizado con comida internacional y algunas bebidas fresquitas!!
 
-### Recogida y cierre
+### Recogida y cierre (20 min)
 
 El core y los voluntarios de OSW recogen y limpian las instalaciones para los que puedan venir detrás.
 Toda ayuda es bien venida!!
-
