@@ -1,49 +1,50 @@
-Canales por los que nos comunicamos y usos
+# La comunicación en OSW
 
 
-### La comunicación en OSW
+## Web:
 
-**Web:**
-
-Es un lugar donde poder centralizar todos los medios con los que se comunican OSW y sus miembros.
-
-**Meetup**
-
-Plataforma para anunciar los eventos y coordinar la asistencia y resolver dudas relacionadas. En ocasiones se suben foto y vídos del propio evento.
-
-**Slack**
-
-**Redes sociales**
-
-  - **Twitter** Medio principal para conectar con terceros y contar que está pasando en OSW.
-  - **Facebook** Medio para publicar fotos y vídeos de los eventos, eventualmente también se realiza alguna que otra comunicación.
-
-**Github**
-
-Servicio web gratuito utilizado para documentar los proyectos que se desarrollan dentro de OSW
+Es el lugar desde el cual acceder al resto de medios con los que se comunican los miembros de OSW.
+[Link](http://osweekends.com/)
 
 
------
-------
+## Meetup
 
-# SECCIÓN COMUNICACIÓN Comunicación (Ampliar cada canal y adjuntar guía de iniciación para novatos DE SLACK)
+Plataforma para anunciar los eventos y coordinar la asistencia. Posee una sencilla sección de mensajería para resolver dudas relacionadas con el evento, la asistencia y cambios de última hora.
 
-**Web:**
-[http://osweekends.com/](http://osweekends.com/)
+Ocasionalmente se publican fotos y vídeos cortos del evento.
 
-Es un lugar donde poder centralizar y acceder a todos los medios con los que se comunican OSW y sus miembros.
-También aparecen nuestros proveedores y *proximamente enlaces a los proyectos lanzados a producción*
+Para convertirte en miembro de la comunidad de OSW registrate en la plataforma y unete al grupo.
 
-**Meetup**
-[https://www.meetup.com/es-ES/Open-Source-Weekends/](https://www.meetup.com/es-ES/Open-Source-Weekends/)
+[Apúntate aquí](https://www.meetup.com/es-ES/Open-Source-Weekends/)
 
-Plataforma para organización de eventos, a través de ella se anuncian las fechas para los próximos encuentros y se acceder al perfil de cada miembro. Ocasionalmente también se publican algunas fotos del evento.
+[Aquí](https://www.meetup.com/es-ES/help/)[
 
-Registrándote en la plataforma y concretamente en la comunidad de OSW te conviertes automáticamente en miembro de la misma.
+## Redes sociales
 
-Puedes consutlar tus dudas aquí [Ayuda meetup](https://www.meetup.com/es-ES/help/)
+  - [**Twitter**](https://twitter.com/os_weekends?lang=es) - Medio principal para conectar con terceros y contar al mundo que está pasando en OSW.
+  
+  - [**Facebook**](https://www.facebook.com/osweekends/)-  Medio para documentar los eventos con fotos y vídeos sobre todo.
 
-**Slack**
+## Medium
+
+Es una plataforma de bloggin donde se publican artículos relacionados con eventos de interés, patrocinadores, entrevistas a miembros destacados de la comunidad y un sin fin de cosas más. 
+
+[Link](https://medium.com/osweekends)
+
+## Github
+
+GitHub es una plataforma de desarrollo colaborativo utulizada para alojar proyectos utilizando el sistema de control de versiones Git
+Traducción para novatos : servicio web gratuito utilizado para documentar el código y contenido de los proyectos que se desarrollan dentro de OSW.
+
+[Github en Wikipedia](https://es.wikipedia.org/wiki/GitHub)
+
+El directorio o reporsitorio principal de OSW en Github muestra un indice de proyectos para acceder al contenido. Todos los desarrollos de los proyectos de OSW están alojados en Github.
+
+[Link](https://github.com/OSWeekends)
+
+
+## Slack
+
 Qué es
 Para que se usa
 Cómo se usa - ayuda slack link
@@ -61,17 +62,3 @@ Cómo se usa en OSW
     - Si la duda es concreta puedes plantearla en #general. Si va a ser recurrente sobre un tema es mejor pasar randon o abrir un canal para ello.
     - Los canales principales se mantienen, lo que no se usan son purgados cada 2 o 3 meses.
   - Cada proyecto tiene su propio canal.
-
-**Twitter**
-
-Qué es
-Para que se usa
-Cómo se usa - ayuda slack link
-
-**Facebook**
-
-Qué es
-Para que se usa
-Cómo se usa - ayuda slack link
-
-**Github**
