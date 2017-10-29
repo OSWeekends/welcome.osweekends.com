@@ -47,10 +47,9 @@ Toda ayuda es bien venida!!
 Tienen lugar para celebrar logros de la comunidad como llegar al os 500 miembros en el meetup, la celebración de algún gran premio como el de la [Openexpo de 2017](http://www.openexpo.es/oe2017/homepage/). Son la escusa ideal para conocer mejor a los miembros más activos.
 
 Consisten en alguna quedada informal por los bares de la zona donde solemos concentramos y que por ahora es...
-
-*Calle Juan Duque
-
-*Barrio de La Latina
+  
+  - Calle Juan Duque
+  - Barrio de La Latina
 
 ## Eventos de otras comunidades
 OSW es una comunidad muy activa que hace todo lo posible or ayudar a difundir la cultura open source ayudando a sus  miembros y las  comunidades que solicitan su ayuda.
