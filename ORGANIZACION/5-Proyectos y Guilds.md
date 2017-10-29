@@ -86,7 +86,7 @@ Aquí podéis encontrar Listado oficial actualizado de Guilds y miembros
 
 ## Recursos de los Guilds  
 
-> Cada Guild se organiza de manera diferente con respecto a las herramientas; el equipo decide qué utilizar y cómo. 
+Cada Guild se organiza de manera diferente con respecto a las herramientas; el equipo decide qué utilizar y cómo. 
 
 ### Sesiones
 
