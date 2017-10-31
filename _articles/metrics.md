@@ -1,6 +1,6 @@
 ---
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
+title: Métricas en proyectos de código abierto
+description: Tome decisiones informadas para ayudar a su proyecto de código abierto a prosperar mediante la medición y el seguimiento de su éxito.
 class: metrics
 toc:
   why-measure-anything: "Why measure anything?"
