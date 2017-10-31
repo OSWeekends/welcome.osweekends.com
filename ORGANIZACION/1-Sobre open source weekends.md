@@ -1,25 +1,26 @@
-# Sobre Open Source Weekends
+## Sobre Open Source Weekends
+
 ### BIENVENID@ A OSW!!!
 
 **Aprende sobre OSW... historia, posibilidades, grupos de trabajao, etc...**
 
-## Qué es OSW
+### Qué es OSW
 
 Según [Open Source Design](http://opensourcedesign.net/)
 Es una comunidad de personas que ayuda a la sociedad fomentando el uso y el aprendizaje de herramientas de software y hardware libre.
 Básicamente el Open Source se fundamenta en el compartir conocimiento y colaborar en proyectos.
 
-## Cómo surge Open Source Weekends:
+### Cómo surge Open Source Weekends:
 
 Surge de las reuniones de un grupo de amigos. Buscaban comunidades donde se compartiese su interés por el Open Source de una forma horizontal, donde tod@s participaran, y al no encontrarla, decidieron montarla ellos.
 
-## Para qué
+### Para qué
 
 OSW se reúne físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el Open Source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo, pero se trata sobre todo de ¡Pasarlo bien!
 
 [Consulta nuestro código de conducta aquí](https://github.com/OSWeekends/welcome.osweekends.com/blob/dev/ORGANIZACION/2-Codigo%20de%20conducta.md)
 
-## Quíén es quién en OSW?
+### Quíén es quién en OSW?
 
 Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un árbol del que nacen varias ramas principales.
 
@@ -27,7 +28,7 @@ Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un �
 
 Te resumimos a continuación en qué consiste cada rama. Puedes ampliar la información pinchando en los enlaces disponibles.
 
-### La Comunidad
+#### La Comunidad
 
 stá compuesta por todos los miembros del meetup.
 
@@ -48,7 +49,7 @@ Se encargan de coordinar y gestionar toda la actividad online y offline (envento
 - ...
 METER COMUNIDADES DEL OCSUMMIT17
 
-### Eventos
+#### Eventos
 
 **Meetup Mensual** La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos.
 
@@ -59,7 +60,7 @@ METER COMUNIDADES DEL OCSUMMIT17
 [Mas info sobre los eventos...](vínculo)
 
 
-### Comunicación en OSW:
+#### Comunicación en OSW:
 
 **¿Y cómo me entero de lo que pasa?**
 
@@ -79,7 +80,7 @@ Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Per
 
 [Mas info de Comunicacion en OSW...](vínculo)
 
-### Proyectos y Guilds:
+#### Proyectos y Guilds:
 
 **Proyectos** Pueden ser sobre software o hardware y sirven para aprender con otros.
 Surgen de los intereses de miembros de la comunidad (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...).
@@ -97,7 +98,7 @@ Un gremio en OSW está constituido por un conjunto de personas con perfiles dife
 
 [Mas info sobre Proyectos y Guilds...](vínculo)
 
-### Patrocinadores o Sponsors
+#### Patrocinadores o Sponsors
 
 Son empresas que apoyan la causa aportando recursos que permiten a OSW mejorar la experiencia de la comunidad en los encuentros mensuales.
 
@@ -110,14 +111,14 @@ Algunos de estos recursos son:
 
 [Mas info sobre patrocinadores...](Vínculo a proyección física)
 
-### Equipo de Hackatones
+#### Equipo de Hackatones
 
 Es un equipo multidisciplinar  (hardware y software) de personas que representa a OSW en los hackatones donde se decide participar.
 Se intenta que el equipo haya varias personas parecidas de cada perfil para tener mayor disponiblidad de cara a eventos.
 
 (En construcción)
 
-## Esto está genial, pero... ¿Cómo participo?
+### Esto está genial, pero... ¿Cómo participo?
 
 Si deseas unirte a nuestra noble causa, tan sólo tienes que apuntarte al meetup ENLACE, venir a alguna de nuestras reuniones y entrar en nuestro grupo de SLACK.
 
