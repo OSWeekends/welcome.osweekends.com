@@ -1,9 +1,11 @@
 # Welcome!
 **Bitácora de cambios**
 
+**Uptdates 27-29/10/17**
+Pepe - Terminados los textos de las secciones 1 a 5 falta una revisión por un tercero, subirlo a la web y maquetarlo para antes de la presentación de Github constelation.
+
 
 **Uptdates 18/10/17**
-
 
 Resumen reunión hangouts:
 Asistentes - Elena, Ana y Pepe
