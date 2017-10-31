@@ -1,6 +1,6 @@
 ---
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: Comenzando un Proyecto de Código Abierto
+description: Aprenda más sobre el mundo del código abierto y prepárese para lanzar su propio proyecto.
 class: beginners
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"
