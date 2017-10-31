@@ -1,6 +1,6 @@
 ---
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+title: Código de conducta
+description: Facilitar el comportamiento saludable y constructivo de la comunidad adoptando y haciendo cumplir un código de conducta.
 class: coc
 toc:
   why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
