@@ -1,6 +1,6 @@
 ---
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
+title: El lado legal del código abierto
+description: Todo lo que alguna vez has querido saber sobre el lado legal del código abierto, y algunas cosas que no pensaste.
 class: legal
 toc:
   why-do-people-care-so-much-about-the-legal-side-of-open-source: "Why do people care so much about the legal side of open source?"
@@ -10,7 +10,7 @@ toc:
   what-if-i-want-to-change-the-license-of-my-project: "What if I want to change the license of my project?"
   does-my-project-need-an-additional-contributor-agreement: "Does my project need an additional contributor agreement?"
   what-does-my-companys-legal-team-need-to-know: "What does my company’s legal team need to know?"
-order: 10
+order: 11
 image: /assets/images/cards/legal.png
 ---
 

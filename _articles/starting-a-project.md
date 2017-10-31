@@ -1,6 +1,6 @@
 ---
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+title: Comenzando un Proyecto de Código Abierto
+description: Aprenda más sobre el mundo del código abierto y prepárese para lanzar su propio proyecto.
 class: beginners
 toc:
   the-what-and-why-of-open-source: "The what and why of open source"
@@ -8,7 +8,7 @@ toc:
   launching-your-own-open-source-project: "Launching your own open source project"
   naming-and-branding-your-project: "Naming and branding your project"
   your-pre-launch-checklist: "Your pre-launch checklist"
-order: 2
+order: 3
 image: /assets/images/cards/beginner.png
 ---
 

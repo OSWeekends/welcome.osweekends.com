@@ -1,6 +1,6 @@
 ---
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+title: Cómo contribuir al código abierto
+description: ¿Quieres contribuir con el código abierto? Una guía para hacer contribuciones de código abierto, para principiantes y para veteranos.
 class: contribute
 toc:
   why-contribute-to-open-source: "Why contribute to open source?"
@@ -9,7 +9,7 @@ toc:
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
   how-to-submit-a-contribution: "How to submit a contribution"
   what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
-order: 1
+order: 2
 image: /assets/images/cards/contribute.png
 ---
 

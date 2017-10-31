@@ -1,6 +1,6 @@
 ---
-title: Finding Users For Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+title: Encontrar usuarios para su proyecto
+description: Ayude a que su proyecto de código abierto crezca al ponerlo en manos de usuarios satisfechos.
 class: finding
 toc:
   spreading-the-word: "Spreading the word"
@@ -9,7 +9,7 @@ toc:
   go-where-your-projects-audience-is-online: "Go where your project’s audience is (online)"
   go-where-your-projects-audience-is-offline: "Go where your project’s audience is (offline)"
   build-a-reputation: "Build a reputation"
-order: 3
+order: 4
 image: /assets/images/cards/finding.png
 ---
 

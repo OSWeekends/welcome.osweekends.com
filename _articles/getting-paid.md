@@ -1,13 +1,13 @@
 ---
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
+title: Cobrar por el trabajo de código abierto
+description: Sostenga su trabajo en código abierto obteniendo apoyo financiero por su tiempo o su proyecto.
 class: getting-paid
 toc:
   why-some-people-seek-financial-support: "Why some people seek financial support"
   funding-your-own-time: "Funding your own time"
   finding-funding-for-your-project: "Finding funding for your project"
   building-a-case-for-financial-support: "Building a case for financial support"
-order: 7
+order: 8
 image: /assets/images/cards/getting-paid.png
 ---
 

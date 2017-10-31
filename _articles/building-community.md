@@ -1,12 +1,12 @@
 ---
-title: Building Welcoming Communities
-description: Building a community that encourages people to use, contribute to, and evangelize your project.
+title: Construyendo comunidades agradables
+description: Construir una comunidad que anime a las personas a usar, contribuir y evangelizar su proyecto.
 class: building
 toc:
   setting-your-project-up-for-success: "Setting your project up for success"
   growing-your-community: "Growing your community"
   resolving-conflicts: "Resolving conflicts"
-order: 4
+order: 5
 image: /assets/images/cards/building.png
 ---
 

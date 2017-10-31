@@ -1,5 +1,5 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "Open Source Weekends (OSW)"
+description: "¡Bienvenid@ a nuestra comunidad!"
 
 exclude:
   - bin
@@ -34,7 +34,7 @@ defaults:
     values:
       layout: article
 
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -51,10 +51,10 @@ sass:
 branch: gh-pages
 
 github:
-  repository_nwo: github/opensource.guide
+  repository_nwo: OSWeekends/welcome.osweekends.com
 
 twitter:
-  username: github
+  username: OSWeekends
 
 facebook:
-  publisher: https://www.facebook.com/GitHub/
+  publisher: https://www.facebook.com/OSWeekends/
