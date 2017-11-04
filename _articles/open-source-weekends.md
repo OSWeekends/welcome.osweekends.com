@@ -42,6 +42,8 @@ Surge de las reuniones de un grupo de amigos. Buscaban comunidades donde se comp
 
 OSW se reúne físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el Open Source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo, pero se trata sobre todo de ¡Pasarlo bien!
 
+_[Consulta nuestro código de conducta aquí](#código-de-conducta)_
+
 ### Quíén es quién en OSW?
 
 Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un árbol del que nacen varias ramas principales.
@@ -73,11 +75,11 @@ Se encargan de coordinar y gestionar toda la actividad online y offline (envento
 
 #### Eventos
 
-**Meetup Mensual** La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos.
+- **Meetup Mensual** La comunidad se reune físicamente y de manera oficial al menos 1 vez al mes para comentar las novedades, los avances de los proyectos y aprender juntos.
 
-**OS-Beers:** Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
+- **OS-Beers:** Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
 
-**Eventos con otras comunidades** Eventos a los que  asisten como invitados una representación de OSW.
+- **Eventos con otras comunidades** Eventos a los que  asisten como invitados una representación de OSW.
   
 [Mas info sobre los eventos...](vínculo)
 
