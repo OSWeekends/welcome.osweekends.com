@@ -14,14 +14,24 @@ image: /assets/images/cards/welcome.png
 
 ## Sobre Open Source Weekends
 
-### BIENVENID@ A OSW!!!
+### Qué es Open Source
 
-**Aprende sobre OSW... historia, posibilidades, grupos de trabajao, etc...**
+<aside markdown="1" class="pquote">
+  <img src="https://secure.meetupstatic.com/photos/event/3/e/a/4/global_461056036.jpeg" class="pquote-avatar" alt="avatar">
+  Es una comunidad de personas que ayuda a la sociedad fomentando el uso y el aprendizaje de herramientas de software y hardware libre.
+  <p markdown="1" class="pquote-credit">
+— [Open Source Design](http://opensourcedesign.net/)
+  </p>
+</aside>
 
-### Qué es OSW
+<aside markdown="1" class="pquote">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png" class="pquote-avatar" alt="avatar">
+  El código abierto es el software desarrollado y distribuido libremente. Se enfoca más en los beneficios prácticos (acceso al código fuente) que en cuestiones éticas o de libertad que tanto se destacan en el software libre. Para muchos el término «libre» hace referencia al hecho de adquirir un software de manera gratuita, pero más que eso, la libertad se refiere al poder modificar la fuente del programa sin restricciones de licencia, ya que muchas empresas de software encierran su código, ocultándolo, y restringiéndose los derechos a sí misma.
+  <p markdown="1" class="pquote-credit">
+— @Wikipedia ["Código abierto"](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto)
+  </p>
+</aside>
 
-Según [Open Source Design](http://opensourcedesign.net/)
-Es una comunidad de personas que ayuda a la sociedad fomentando el uso y el aprendizaje de herramientas de software y hardware libre.
 Básicamente el Open Source se fundamenta en el compartir conocimiento y colaborar en proyectos.
 
 ### Cómo surge Open Source Weekends:
