@@ -44,14 +44,6 @@ OSW se reúne físicamente al menos una vez al mes para dar cabida a todas las p
 
 _[Consulta nuestro código de conducta aquí](#código-de-conducta)_
 
-### Quíén es quién en OSW?
-
-Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un árbol del que nacen varias ramas principales.
-
-[Ver mapa de la organización](https://coggle.it/diagram/WfRuGnYMZQAB7JUy)
-
-Te resumimos a continuación en qué consiste cada rama. Puedes ampliar la información pinchando en los enlaces disponibles.
-
 #### La Comunidad
 
 Está compuesta por todos los miembros del meetup.
@@ -87,7 +79,7 @@ Se encargan de coordinar y gestionar toda la actividad online y offline (envento
 
 - **Eventos con otras comunidades** Eventos a los que  asisten como invitados una representación de OSW.
   
-[Mas info sobre los eventos...](#los-eventos)
+_[Mas info sobre los eventos...](#los-eventos)_
 
 
 #### Comunicación en OSW:
@@ -118,7 +110,7 @@ Surgen de los intereses de miembros de la comunidad (Lenguajes, piezas de hardwa
 **Guilds** Conforman los grupos de trabajo que desarrollan los proyectos.
 Un gremio en OSW está constituido por un conjunto de personas con perfiles diferentes y complementarios para poder sacar a producción un proyecto real.
 
-[Mas info sobre Proyectos y Guilds...](vínculo)
+_[Mas info sobre Proyectos y Guilds...](http://welcome.osweekends.com/open-source-weekends/#guilds-y-guilders)_
 
 #### Patrocinadores o Sponsors
 
@@ -126,19 +118,20 @@ Son empresas que apoyan la causa aportando recursos que permiten a OSW mejorar l
 
 Algunos de estos recursos son:
 
- - Merchandising empresarial como tazas, pegatinas, camisetas.
+ - Merchandising como tazas, pegatinas, camisetas.
  - Pago del cátering
  - Gastos de transporte y alojamiento de ponentes
  - Servicios tecnológicos para poner en producción los proyectos de OSW (dominios hosting, almacenamiento y procesamiento en la nube)
 
-[Mas info sobre patrocinadores...](Vínculo a proyección física)
+_[Mas info sobre patrocinadores...](#patrocinadores)_
 
 #### Equipo de Hackatones
 
-Es un equipo multidisciplinar  (hardware y software) de personas que representa a OSW en los hackatones donde se decide participar.
-Se intenta que el equipo haya varias personas parecidas de cada perfil para tener mayor disponiblidad de cara a eventos.
+_**(En construcción)**_
 
-(En construcción)
+Es un equipo multidisciplinar  (hardware y software) de personas que representa a OSW en los hackatones donde se decide participar.
+
+Se intenta que el equipo haya varias personas parecidas de cada perfil para tener mayor disponiblidad de cara a eventos.
 
 ### Esto está genial, pero... ¿Cómo participo?
 
@@ -304,9 +297,10 @@ Para aquellos eventos que se realicen fuera de Campus Madrid se extenderan y ada
 
 ## Patrocinadores
 
-Qué aportan a la comunidad
-  - Recursos físicos
-  - Recursos económicos
-  - Merchandishing
-Cómo ser patrocinador
-Procedimiento
+Patrocinadores actuales:
+- [OVH](https://www.ovh.es/)
+- [Fictizia](http://fictizia.com/)
+- [Gamify](http://gamify.es/)
+- [Pillarsjs](http://pillarsjs.com/)
+- [Tetuan Valley](http://tetuanvalley.com/)
+- [Tecnicrea](http://tecnicrea.es/)
