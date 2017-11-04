@@ -66,12 +66,18 @@ Se encargan de coordinar y gestionar toda la actividad online y offline (envento
 
 - **Comunidades hermanadas** Son otros comunidades que comparten los intereses de OSW mantienen una buena relación con nuestra comunidad. Por eso se les invita a andar el camino juntos.
 
-  - R-ladies
-  - Adalab
-  - Cogueenagues
-  - Haskelmap
-  - ...
-  METER COMUNIDADES DEL OCSUMMIT17
+  - [GDG Huelva](https://twitter.com/gdghuelva)
+  - [PillarsJS](https://twitter.com/PillarsJS)
+  - [Apiaddicts](https://twitter.com/apiaddicts)
+  - [HaskellMAD](https://twitter.com/HaskellMAD)
+  - [Planet Linux Caffe](https://twitter.com/caffelinux)
+  - [HackMadrid%27](https://twitter.com/hackmadrid)
+  - [RLadiesMAD](https://twitter.com/RLadiesMAD)
+  - [Makespace Madrid](https://twitter.com/MakespaceMadrid)
+  - [Codenares](https://twitter.com/codenares)
+  - [Open Source Design](https://twitter.com/opensrcdesign)
+  - [GDG Madrid](https://twitter.com/GDGMadrid)
+  - [Women Techmakers Madrid](https://twitter.com/WomenTechmakers)
 
 #### Eventos
 
@@ -90,7 +96,7 @@ Se encargan de coordinar y gestionar toda la actividad online y offline (envento
 
 Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Pero aunque pueda parecer caótico no lo es.
 
-[**Web:**](Vínculo) Desde donde acceder a tods los demás medios.
+[**Web:**]() Desde donde acceder a tods los demás medios.
 
 [**Meetup**](Vínculo)  Donde se anuncian los eventos y se gestiona el acceso. Ocasionamente se publican  fotos.
 
@@ -102,7 +108,6 @@ Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Per
   
 [**Github:**](vínculo) Plataforma para documentar los proyectos. Es la piedra angular para el trabajo de todos.
 
-[Mas info de Comunicacion en OSW...](vínculo)
 
 #### Proyectos y Guilds:
 
