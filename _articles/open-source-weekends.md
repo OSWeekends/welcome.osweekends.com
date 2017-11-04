@@ -42,8 +42,6 @@ Surge de las reuniones de un grupo de amigos. Buscaban comunidades donde se comp
 
 OSW se reúne físicamente al menos una vez al mes para dar cabida a todas las personas que quieran aprender y aportar sobre temas relacionado con el Open Source. Y su máxima es que puedan hacerlo en igualdad de oportunidad y sin limitación ni discriminación de ningún tipo, pero se trata sobre todo de ¡Pasarlo bien!
 
-[Consulta nuestro código de conducta aquí](https://github.com/OSWeekends/welcome.osweekends.com/blob/dev/ORGANIZACION/2-Codigo%20de%20conducta.md)
-
 ### Quíén es quién en OSW?
 
 Para tener un esquema básico de cómo se organiza OSW podemos imaginar  en un árbol del que nacen varias ramas principales.
