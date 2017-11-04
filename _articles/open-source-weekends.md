@@ -52,24 +52,24 @@ Te resumimos a continuación en qué consiste cada rama. Puedes ampliar la infor
 
 #### La Comunidad
 
-stá compuesta por todos los miembros del meetup.
+Está compuesta por todos los miembros del meetup.
 
-**Core:** Lo constituyen los fundadores de la comunidad Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
+- **Core:** Lo constituyen los fundadores de la comunidad Oswaldito, Ulises Gascón, Jose Gallego, Ignacio Villanueva, Carlos Hernández, Borja Godoy
 
 Se encargan de coordinar y gestionar toda la actividad online y offline (enventos). Es decir buscar espacios para eventos, el catering, planificar las ponencias y talleres, logística de equipos audiovisuales, negociar con los sponsors,  colaboraciones con otras comunidades y evangelizar sobre Open Source.
 
-**Contributors** Miembros que participan en los proyectos de OSW añadiendo contenido
+- **Guilders** Miembros de los guilds que participan en los proyectos de Open Source Weekends
 
-**Voluntarios** Personas que ayudan durante los eventos de OSW para que salgan bien.
+- **Voluntarios** Personas que ayudan durante los eventos de OSW para que salgan bien.
 
-**Comunidades hermanadas** Son otros comunidades que comparten los intereses de OSW mantienen una buena relación con nuestra comunidad. Por eso se les invita a andar el camino juntos.
+- **Comunidades hermanadas** Son otros comunidades que comparten los intereses de OSW mantienen una buena relación con nuestra comunidad. Por eso se les invita a andar el camino juntos.
 
-- R-ladies
-- Adalab
-- Cogueenagues
-- Haskelmap
-- ...
-METER COMUNIDADES DEL OCSUMMIT17
+  - R-ladies
+  - Adalab
+  - Cogueenagues
+  - Haskelmap
+  - ...
+  METER COMUNIDADES DEL OCSUMMIT17
 
 #### Eventos
 
