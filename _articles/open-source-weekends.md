@@ -87,7 +87,7 @@ Se encargan de coordinar y gestionar toda la actividad online y offline (envento
 
 - **Eventos con otras comunidades** Eventos a los que  asisten como invitados una representación de OSW.
   
-[Mas info sobre los eventos...](vínculo)
+[Mas info sobre los eventos...](#los-eventos)
 
 
 #### Comunicación en OSW:
@@ -96,31 +96,24 @@ Se encargan de coordinar y gestionar toda la actividad online y offline (envento
 
 Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Pero aunque pueda parecer caótico no lo es.
 
-[**Web:**]() Desde donde acceder a tods los demás medios.
+[**Web:**](http://osweekends.com/) Desde donde acceder a tods los demás medios.
 
-[**Meetup**](Vínculo)  Donde se anuncian los eventos y se gestiona el acceso. Ocasionamente se publican  fotos.
+[**Meetup**](http://next.osweekends.com/)  Donde se anuncian los eventos y se gestiona el acceso. Ocasionamente se publican  fotos.
 
-[**Slack:**](Vínculo) - Plataforma de chat para comunicaciones de todo tipo entre miembros, proyectos y guilds
+[**Slack:**](http://invitations-osweekends.herokuapp.com/) - Plataforma de chat para comunicaciones de todo tipo entre miembros, proyectos y guilds
 
-[**Twitter:**](Vínculo) Red social para conectar con terceros y contar que está pasando en OSW.
+[**Twitter:**](https://twitter.com/os_weekends) Red social para conectar con terceros y contar que está pasando en OSW.
 
-[**Facebook:**](Vínvulo) Red social donde publicar fotos y vídeos de los eventos.
+[**Facebook:**](https://www.facebook.com/osweekends/) Red social donde publicar fotos y vídeos de los eventos.
   
-[**Github:**](vínculo) Plataforma para documentar los proyectos. Es la piedra angular para el trabajo de todos.
+[**Github:**](https://github.com/osweekends) Plataforma para documentar los proyectos. Es la piedra angular para el trabajo de todos.
 
+[**Medium**](https://medium.com/osweekends) Donde se publican noticias y novedades
 
 #### Proyectos y Guilds:
 
 **Proyectos** Pueden ser sobre software o hardware y sirven para aprender con otros.
 Surgen de los intereses de miembros de la comunidad (Lenguajes, piezas de hardware, últimas tendencias de tecnología como bigdata,  cripto monedas, machine learning...).
-
-- Proyectos desarrollados por miembros de OSW
-  - Kooper
-  - Ginger code
-  - Proyectos en colaboración con comunidades hermanadas.
- 
-- Proyectos agenos a OSW a los que se ayuda dando visbilidad.
-  - Café solidario
 
 **Guilds** Conforman los grupos de trabajo que desarrollan los proyectos.
 Un gremio en OSW está constituido por un conjunto de personas con perfiles diferentes y complementarios para poder sacar a producción un proyecto real.
