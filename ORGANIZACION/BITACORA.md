@@ -1,6 +1,44 @@
 # Welcome!
 **Bitácora de cambios**
 
+
+**Updates 29-11-17**
+
+Avisar a Ulises para dar acceso al repositorio: Dar acceso a Baumann, Vicky y Vic al repositorio.
+
+Se ha hablado de diseño teconlogía, versiones del proyecto y gestión del mismo.
+
+Hay consenso para realizar 2 versiones
+
+
+Welcome 1.O
+
+  - Objetivo para la comunidad: versión funcional, práctica y atractiva pero sencilla para tener feedback de la comunidad.
+  - Objetivo para el equipo: apreneder a trabajar juntos, ritmos de trabajo según disponiblidad, gestión de taréas.
+  
+Welcome 2.0
+
+  - Objetivo para la comunidad - Crear algo visualmente atractivo y tenga pegada!
+  - Objetivo para el equipo - Afrontar el reto de hacer algo difícil e implementar tecnologías más complejas que se quedaron fuera.
+
+Desarrollo de welcome 1.0
+
+  - Diseño - tipo acordeon, por mayoría
+    - Tareas:
+      - Pegar recuros de webs que usan el diseño de acordeon como inspiración en el Gdoc compartido.
+      (link)[https://docs.google.com/document/d/1QFrCCMcsUrgC75QRzbsTWTGZZwWChHBwf8rc0_7Vce8/edit#]
+      - Ana y Pepe tienen que diseñar la web (Sin fecha)
+      - Presentación al equipo y feedback (Sin Fecha)
+      - Terminado el planteamiento web se asignan tareas para el desarrollo
+  - Teconlogía a utilizar: Bootstrap, sass, Gulp.
+    - Fácil de aprender y utilizar para ser efectivos.
+  - Baumann activará la opción de githope (organizar el proyecto como trello)
+  - Reuniones - hasta que no se termine el planteamiento gráfico no nos volvemos a reunir.
+  
+  
+  
+
+
 **Uptdates 27-29/10/17**
 Pepe - Terminados los textos de las secciones 1 a 5 falta una revisión por un tercero, subirlo a la web y maquetarlo para antes de la presentación de Github constelation.
 
