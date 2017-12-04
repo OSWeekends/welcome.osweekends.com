@@ -26,16 +26,16 @@ Welcome 2.0
 
 Desarrollo de welcome 1.0
 
-  - Diseño - tipo acordeon, por mayoría
-    - Tareas:
-      - Pegar recuros de webs que usan el diseño de acordeon como inspiración en el Gdoc compartido.
+- Diseño - tipo acordeon, por mayoría
+  - Tareas:
+    - Pegar recuros de webs que usan el diseño de acordeon como inspiración en el Gdoc compartido.
       [link](https://docs.google.com/document/d/1QFrCCMcsUrgC75QRzbsTWTGZZwWChHBwf8rc0_7Vce8/edit#)
-      - Ana y Pepe tienen que diseñar la web (Sin fecha)
-      - Presentación al equipo y feedback (Sin Fecha)
-      - Terminado el planteamiento web se asignan tareas para el desarrollo
+    - Ana y Pepe tienen que diseñar la web (Sin fecha)
+    - Presentación al equipo y feedback (Sin Fecha)
+    - Terminado el planteamiento web se asignan tareas para el desarrollo
   - Teconlogía a utilizar: Bootstrap, sass, Gulp.
     - Fácil de aprender y utilizar para ser efectivos.
-  - Baumann activará la opción de github-projects (organizar el proyecto como trello) (√)
+    - Baumann activará la opción de github-projects (organizar el proyecto como trello) (√)
   - Reuniones - hasta que no se termine el planteamiento gráfico no nos volvemos a reunir.
   
   
