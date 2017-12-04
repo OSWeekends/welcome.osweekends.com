@@ -35,7 +35,7 @@ Desarrollo de welcome 1.0
       - Terminado el planteamiento web se asignan tareas para el desarrollo
   - Teconlogía a utilizar: Bootstrap, sass, Gulp.
     - Fácil de aprender y utilizar para ser efectivos.
-  - Baumann activará la opción de githope (organizar el proyecto como trello)
+  - Baumann activará la opción de github-projects (organizar el proyecto como trello) (√)
   - Reuniones - hasta que no se termine el planteamiento gráfico no nos volvemos a reunir.
   
   
