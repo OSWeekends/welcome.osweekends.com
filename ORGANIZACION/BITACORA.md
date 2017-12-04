@@ -1,9 +1,9 @@
 # Welcome!
 **Bitácora de cambios**
 
-Acceso a Mindmap [https://coggle.it/diagram/WfRuGnYMZQAB7JUy]
+Acceso a [Mindmap](https://coggle.it/diagram/WfRuGnYMZQAB7JUy)
 
-Acceso a (Gdoc)[https://docs.google.com/document/d/1QFrCCMcsUrgC75QRzbsTWTGZZwWChHBwf8rc0_7Vce8/edit#heading=h.hhyd3ggxskzd] resumen del proyecto (motivación, equipo, status...)
+Acceso a [Gdoc](https://docs.google.com/document/d/1QFrCCMcsUrgC75QRzbsTWTGZZwWChHBwf8rc0_7Vce8/edit#heading=h.hhyd3ggxskzd) resumen del proyecto (motivación, equipo, status...)
 
 **Updates 29-11-17**
 
@@ -29,7 +29,7 @@ Desarrollo de welcome 1.0
   - Diseño - tipo acordeon, por mayoría
     - Tareas:
       - Pegar recuros de webs que usan el diseño de acordeon como inspiración en el Gdoc compartido.
-      (link)[https://docs.google.com/document/d/1QFrCCMcsUrgC75QRzbsTWTGZZwWChHBwf8rc0_7Vce8/edit#]
+      [link](https://docs.google.com/document/d/1QFrCCMcsUrgC75QRzbsTWTGZZwWChHBwf8rc0_7Vce8/edit#)
       - Ana y Pepe tienen que diseñar la web (Sin fecha)
       - Presentación al equipo y feedback (Sin Fecha)
       - Terminado el planteamiento web se asignan tareas para el desarrollo
