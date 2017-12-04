@@ -1,6 +1,9 @@
 # Welcome!
 **Bitácora de cambios**
 
+Acceso a Mindmap [https://coggle.it/diagram/WfRuGnYMZQAB7JUy]
+
+Acceso a (Gdoc)[https://docs.google.com/document/d/1QFrCCMcsUrgC75QRzbsTWTGZZwWChHBwf8rc0_7Vce8/edit#heading=h.hhyd3ggxskzd] resumen del proyecto (motivación, equipo, status...)
 
 **Updates 29-11-17**
 
