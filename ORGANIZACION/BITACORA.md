@@ -1,6 +1,21 @@
 # Welcome!
 **Bitácora de cambios**
 
+**Updates 20-12-17**
+Reunión - Baumann, Vicky y Pepe
+
+Creados el flujo de navegación con invisión
+- Se ha cambiado el diseño por detectar problemas de escalabidlidad y acceso o experiencia de ususario.
+- Se subirá a invisión un flujo de navegación y se vinculará el Gdoc para acceder desde el.
+
+Baumann creará el proyecto base sobre el cual se construirá el resto de elementos que precise la web.
+Definida la apariencia se comenzará a programar a partir del domingo.
+
+
+
+
+
+
 Acceso a [Mindmap](https://coggle.it/diagram/WfRuGnYMZQAB7JUy)
 
 Acceso a [Gdoc](https://docs.google.com/document/d/1QFrCCMcsUrgC75QRzbsTWTGZZwWChHBwf8rc0_7Vce8/edit#heading=h.hhyd3ggxskzd) resumen del proyecto (motivación, equipo, status...)
