@@ -1,39 +1,46 @@
 {
-  "name": "open-source-guide",
   "private": true,
-  "scripts": {
-    "test": "script/test"
+  "engines": {
+    "node": ">=4"
   },
   "devDependencies": {
-    "async": "^2.0.0",
-    "download": "^5.0.3",
-    "ebrew": "^0.1.1",
-    "fastmatter": "^1.1.1",
-    "glob": "^7.0.5",
-    "ignore": "^3.1.3",
-    "js-yaml": "^3.6.1",
-    "kindlegen": "^1.1.0",
-    "mkdirp": "^0.5.1",
-    "remark-lint": "^5.0.0",
-    "remark-parse": "^2.0.0",
-    "remark-retext": "^2.0.0",
-    "remark-stringify": "^2.0.0",
-    "retext-english": "^2.0.0",
-    "retext-equality": "^2.3.2",
-    "retext-quotes": "^1.0.0",
-    "retext-readability": "^3.0.0",
-    "retext-repeated-words": "^1.0.0",
-    "retext-sentence-spacing": "^1.0.0",
-    "retext-simplify": "^3.0.0",
-    "retext-words": "bkeepers/retext-words",
-    "slug": "^0.9.1",
-    "to-vfile": "^2.1.0",
-    "unified": "^5.0.0",
-    "unist-util-visit": "^1.1.1",
-    "vfile-reporter": "^3.0.0",
-    "vfile-statistics": "^1.0.0"
+    "babel-core": "^6.4.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-register": "^6.5.2",
+    "browser-sync": "^2.2.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-babel": "^6.1.1",
+    "gulp-cache": "^0.4.2",
+    "gulp-cssnano": "^2.0.0",
+    "gulp-eslint": "^3.0.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^3.0.0",
+    "gulp-size": "^2.1.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-useref": "^3.0.0",
+    "main-bower-files": "^2.5.0",
+    "run-sequence": "^1.2.2",
+    "wiredep": "^4.0.0"
   },
-  "dependencies": {
-    "primer-css": "^4.7.0"
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "node": true,
+      "browser": true
+    },
+    "rules": {
+      "quotes": [
+        2,
+        "single"
+      ]
+    }
   }
 }
