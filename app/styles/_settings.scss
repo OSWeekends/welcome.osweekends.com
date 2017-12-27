@@ -15,9 +15,27 @@ h6 {
 /*  PAGE  */
 
 .container {
-  background-color: $primary;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 400px) {
+
+
+.container {
+  background-color: blue;
   display: flex;
   flex-direction: row;
   margin: 0;
   padding: 0;
+}
+
+
+
+
+
+
 }
