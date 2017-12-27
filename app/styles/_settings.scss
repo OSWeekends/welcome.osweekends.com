@@ -1,22 +1,20 @@
-*{
+* {
   box-sizing: border-box;
   margin: 0;
 }
-body{
+
+body {
   font-family: 'Raleway', sans-serif;
-  background-color: red;
 }
 
 h1, h2, h3, h4, h5,
-h6{
+h6 {
   font-family: 'Open Sans', sans-serif;
 }
 
-
-
 /*  PAGE  */
 
-.container{
+.container {
   background-color: $primary;
   display: flex;
   flex-direction: row;
