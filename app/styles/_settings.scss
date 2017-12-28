@@ -18,11 +18,12 @@ h6 {
   background-color: red;
   display: flex;
   flex-direction: column;
+  height: 100%;
   margin: 0;
   padding: 0;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 800px) {
 
 
 .container {

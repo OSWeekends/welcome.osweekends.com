@@ -17,19 +17,16 @@
   width: 40%;
 }
 .aside-title {
-  color: white;
-  display: block;
-  font-weight: bold;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
+  display: none;
 }
 .aside-erizo {
-  width: 30%;
+  width: 40%;
 }
-
-
-@media (min-width: 400px) {
+.terminal{
+  display: none;
+}
+////////////////////////////   MEDIAQUERIES   /////////////////////////////////////////
+@media (min-width: 800px) {
 
 
 .aside-container {
@@ -73,29 +70,139 @@
 .aside-logo {
   align-items: center;
   display: flex;
-  margin-left: 10px;
+  flex-direction: column;
+  margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
-  width: 20%;
+  width: 100%;
+}
+
+
+.aside-erizo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 24%;
+}
+.aside-footer{
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+
+}
+// Footer:
+.aside-footer{
+  height: 12%;
+  margin-bottom: 55px;
+  width: 50%;
+}
+.footer-aside-logo-social{
+  display: flex;
+  width: 50%;
+  justify-content: baseline;
+  align-items: baseline;
+  margin: 20px;
 }
 .osw-logo {
-  margin-right: 10px;
-  width: 100%;
+  margin-right: 5px;
+  margin-top: 20px;
+  width: 20%;
 }
 .aside-title {
   color: white;
   display: block;
-  font-weight: bold;
-  margin-left: auto;
+  font-size: 20px;
+  font-weight: normal;
+  margin-left: 5px;
   margin-right: auto;
   margin-top: 10px;
 }
-.aside-erizo {
-  margin-top: 150px;
-  width: 40%;
+
+.footer-social-list{
+  align-items: flex-end;
+  display: flex;
+  margin-left: auto;
+
 }
-.aside-footer{
-  margin-top: 175px;
+.footer-social-element{
+  color: white;
+  list-style: none;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 35px;
+}
+.social-ico{
+  width: 35px;
+}
+
+
+
+
+
+// Snipet:
+@keyframes blink {
+    50% {
+        opacity: 0.0;
+        }
+}
+
+
+.terminal {
+  background-color: #111;
+  bottom: 0;
+  border-top: 1px solid #223;
+  color: #ddd;
+  display: block;
+  font-family: sans-serif, monospace;
+  font-weight: lighter;
+  font-size: 0.8rem;
+  left: 0px;
+  line-height: 40px;
+  padding: 0.5em 3em;
+  position: fixed;
+  vertical-align: baseline;
+  width: 50%;
+}
+.terminal::before {
+  background-color: #223;
+  bottom: 0;
+  color: #445;
+  content: "1";
+  height: 55px;
+  left: 0;
+  line-height: 3.5em;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  vertical-align: top;
+  width: 2em;
+  top: 0;
+}
+.motto {
+  display: inline;
+  vertical-align: top;
+  position: relative;
+}
+.motto span {
+  border: 0;
+  color: #8F72C8;
+  font: inherit;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+.motto::after {
+  animation: blink 1s step-start infinite;
+  bottom: 0;
+  color: white;
+  content: "_";
+  font-weight: bold;
+  position: absolute;
+  height: 1em;
+  right: -1ch;
+  width: 1ch;
 }
 
 
