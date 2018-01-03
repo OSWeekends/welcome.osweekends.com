@@ -8,10 +8,9 @@
 }
 
 
-
 .section-general ul {
     width: 50%;
-    padding: 10px;
+    padding: rem;
 
 }
 
@@ -21,4 +20,11 @@ li {
 
 p {
   text-align: justify;
+  width: 85%;
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 1rem;
 }
