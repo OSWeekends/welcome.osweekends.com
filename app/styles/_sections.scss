@@ -5,6 +5,8 @@
   height: 100%;
   width: 50%;
   margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 
@@ -18,13 +20,15 @@ li {
   list-style: none;
 }
 
-p {
-  text-align: justify;
-  width: 85%;
-}
+
 
 .title {
   text-align: center;
   font-weight: bold;
   padding-top: 1rem;
+}
+
+.description{
+  text-align: justify;
+  padding-bottom: 2rem;
 }
