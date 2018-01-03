@@ -1,7 +1,47 @@
 # Welcome!
 **Bitácora de cambios**
 
+
+
+
+**Update  03-01-18**
+
+Reunión - Vicky, Elena, Pepe
+
+Temas
+
+- Estética de la Web principal (distribución de los principales elementos e efectos al interaccionar con ellos)
+- Estética en modo responsive
+
+WEB
+
+  - Disrtribución de elementos (logo, OSW Welcome, redes sociales en la web).
+
+  - Logos de las secciones coherentes con el título de la sección y el erizo. Presentar 3 opciones de estilo.
+
+  - Efecto a reproducir cuando se pasa el ratón sobre la sección.
+
+  - SECCIONES 
+
+    - Distribución Título - logo - contenido - botones para volver a la principal, volver arriba y redes sociales
+  
+    - Estética (fuentes e interlineado, espacios para maquetación)
+
+RESPONSIVE
+
+  - Diseño y distribuión para adaptar el main page.
+  
+  - Distribución de las secciones y efectos al hacer scroling
+  
+  - Qué se queda (ejemplo head con logo erizo a la izq y menu amburguesa a la derecha)
+
+Conclusiones:
+
+Estamos bastante alineados pero no hay cuorum y se hace dificil concretar los detalles porque no podemos expresarnos gráficamente con facilidad y velocidad. Hemos optado por reunirnos físicamene en la proxima  reunión de open source weekends (13-01-18) para, entre los que  estemos, tomar las decisiones.
+
+
 **Updates 20-12-17**
+
 Reunión - Baumann, Vicky y Pepe
 
 Creados el flujo de navegación con invisión
