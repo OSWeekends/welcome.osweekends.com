@@ -1,6 +1,12 @@
 # Welcome!
 **Bitácora de cambios**
 
+**Update 13-01-18**
+Reunión - Vicky, Baumann y Elena.
+
+- Estética de la web: Eliminar el azul de fondo.
+- Solicitud de feedback a Ivo.
+- Solicitud de diseño básico a Ivo en vista de que no decidimos ninguno concreto.
 
 
 
@@ -21,18 +27,18 @@ WEB
 
   - Efecto a reproducir cuando se pasa el ratón sobre la sección.
 
-  - SECCIONES 
+  - SECCIONES
 
     - Distribución Título - logo - contenido - botones para volver a la principal, volver arriba y redes sociales
-  
+
     - Estética (fuentes e interlineado, espacios para maquetación)
 
 RESPONSIVE
 
   - Diseño y distribuión para adaptar el main page.
-  
+
   - Distribución de las secciones y efectos al hacer scroling
-  
+
   - Qué se queda (ejemplo head con logo erizo a la izq y menu amburguesa a la derecha)
 
 Conclusiones:
@@ -73,7 +79,7 @@ Welcome 1.O
 
   - Objetivo para la comunidad: versión funcional, práctica y atractiva pero sencilla para tener feedback de la comunidad.
   - Objetivo para el equipo: apreneder a trabajar juntos, ritmos de trabajo según disponiblidad, gestión de taréas.
-  
+
 Welcome 2.0
 
   - Objetivo para la comunidad - Crear algo visualmente atractivo y tenga pegada!
@@ -92,9 +98,9 @@ Desarrollo de welcome 1.0
     - Fácil de aprender y utilizar para ser efectivos.
     - Baumann activará la opción de github-projects (organizar el proyecto como trello) (√)
   - Reuniones - hasta que no se termine el planteamiento gráfico no nos volvemos a reunir.
-  
-  
-  
+
+
+
 
 
 **Uptdates 27-29/10/17**
@@ -130,9 +136,9 @@ Deberes:
   - Elena - Revisión de textos.
 Segimiento
   - Slack mail y hangouts
-  
-  
- 
+
+
+
 
 **Uptdates 05/10/17**
 Pegados todos los archivos al mismo nivel para simplificar la generación de contenidos en texto.
@@ -148,12 +154,12 @@ El orden puede variar.
 
   - Sección 1 Acerca de OSWeekends / Intro - Hay que dejar puesto lo justo para explicar de un vistazo en qué consiste y como se organiza.
   - Sección 2 - Comunicación - Nombrar los medios que usa OSW para comunicarse, comentar lo más importante de cada uno e incluir guías de uso para cada uno.
-  - Sección 3 - Guilds - Explicar bien que es un guild y como funciona. Tenemos notas previas de Ulises para pegar pero le daremos una vuelta con este proyecto y su desarrollo. 
+  - Sección 3 - Guilds - Explicar bien que es un guild y como funciona. Tenemos notas previas de Ulises para pegar pero le daremos una vuelta con este proyecto y su desarrollo.
   Conceptos sobre los que hablar Lideres del guild, Contributors, alcance, comunidades implicadas, proyectos de ejemplo (Welcome (pequeño), wikinews (8 a 12 personas y 3 comunidades), gingercode (larga duración, cientos de personas y 1 comunidad)...
-  
+
   - Sección  4 - Codigo de Honor - Se adoptará el Campus Madrid por ahora.
   - Sección 5 - Patrocinadores - Explicar como funciona y como se puede ser patrocinador de OSW e inluir el  link a la presentación de Ulises para el marketing de patrocinadores.
-  
+
   - Sección 6 - Equipo de Hackacatones
   - Sección  7 ....
 
@@ -202,10 +208,10 @@ Guia de Markdown
   - Open source Guide http://www.dwyl.io/
     Forma gráfica de presentar las secciones basada en Mackdown luego en Guithub
     Sirve para tomar referencias de textos en inglés para decir lo mismo
-    
+
   - Transparencia en la gestión de Recursos Financieros - https://opencollective.com/learn-more
   - Memoria anual - http://opensourcesurvey.org/2017/
-  
+
 
 ------------------------------
 **En que consiste OSW - Welcome"**
@@ -221,7 +227,7 @@ Generar una web documentada en Github donde se dé una idea clara que qué OSW, 
 2. El archivo README contiene explicaciones sobre el proyecto y las actas de las reuniones por ahora.
 3. La información se estructura por secciones
 4. Cada sección se corresponde con una cartpeta
-5. Cada carpeta contendrá 
+5. Cada carpeta contendrá
   - Un txt con texto contenido formateado con Markdawn
   - Material gráfico (fotos, ilustraciones y gráficos) para la maquetación final.
 
