@@ -5,13 +5,14 @@
   height: 100%;
   width: 50%;
   margin-top: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
-
 
 
 .section-general ul {
     width: 50%;
-    padding: 10px;
+    padding: 1rem;
 
 }
 
@@ -19,6 +20,15 @@ li {
   list-style: none;
 }
 
-p {
+
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 1rem;
+}
+
+.description{
   text-align: justify;
+  padding-bottom: 2rem;
 }
