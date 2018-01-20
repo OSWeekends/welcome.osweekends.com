@@ -2,6 +2,7 @@
 **Bitácora de cambios**
 
 **Update 13-01-18**
+
 Reunión - Vicky, Baumann y Elena.
 
 - Estética de la web: Eliminar el azul de fondo.
