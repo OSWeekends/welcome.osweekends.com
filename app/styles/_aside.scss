@@ -23,7 +23,7 @@
     flex-direction: row;
     justify-content: space-between;
     margin-left: auto;
-    margin-bottom: 100px;
+    margin-bottom: 75px;
     margin-top: 20px;
     padding: 0 20px;
     width: 90%;
@@ -57,19 +57,24 @@
     margin: 50px auto;
     width: 200px;
   }
-  .aside-info-title{
+  .aside-info-title {
     text-align: center;
     font-size: 2.3em;
-    margin-bottom: 50px;;
+    margin-bottom: 20px;;
   }
   .aside-info-2title{
     color: $font-link;
     text-align: center;
     font-size: 1.2em;
   }
+  .aside-info-image {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+  }
 
   // Footer:
-  .aside-footer{
+  .aside-footer {
     height: 12%;
     margin-bottom: 55px;
     width: 50%;
