@@ -1,3 +1,16 @@
+/*HEADER*/
+
+header{
+  width: 100%;
+}
+
+header a img{
+  height: 200px;
+}
+
+/*FIN HEADER*/
+
+
 .section-container {
   display: flex;
   height: 100%;
@@ -16,6 +29,17 @@
 
 }
 
+.section-group {
+  background-color: #ffffff;
+  border-radius: 20px;
+  margin-bottom:15px;
+}
+
+.section-group img{
+  margin: 1rem;
+}
+
+
 li {
   list-style: none;
 }
@@ -23,12 +47,13 @@ li {
 
 
 .title {
-  text-align: center;
-  font-weight: bold;
-  padding-top: 1rem;
+  font-weight: 500;
+  font-size: 24px;
+  margin: 1rem 1rem 0.3rem 1rem;
 }
 
 .description{
-  text-align: justify;
-  padding-bottom: 2rem;
+  font-size: 18px;
+  font-weight: lighter;
+  padding: 0.3rem 1rem 1rem 1rem;
 }
