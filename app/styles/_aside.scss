@@ -21,18 +21,18 @@
   .navbar-list {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: auto;
-    margin-bottom: 75px;
+    margin-bottom: 0;
     margin-top: 20px;
-    padding: 0 20px;
-    width: 40%;
+    width: 80%;
   }
 
   .navbar--element {
     display: block;
     font-size: 0.8em;
     list-style: none;
+    margin: 0 10px;
     a {
       color: $font-link;
       text-decoration: none;
@@ -60,7 +60,8 @@
   .aside-info-title {
     text-align: center;
     font-size: 2.3em;
-    margin-bottom: 20px;;
+    margin-bottom: 20px;
+    margin-top: 75px
   }
   .aside-info-2title{
     color: $font-link;

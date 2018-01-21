@@ -1,12 +1,19 @@
 /*HEADER*/
 
 header{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
   width: 100%;
 }
-
-header a img{
-  height: 200px;
+.navbar-container{
+  width: 60%;
 }
+.navbar-logo{
+  display: block;
+  width: 120px;
+}
+
 
 /*FIN HEADER*/
 
