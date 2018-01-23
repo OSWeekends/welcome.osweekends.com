@@ -1,6 +1,72 @@
 # Welcome!
 **Bitácora de cambios**
 
+
+
+**Update 22-01-18**
+
+Reunión - Vicky,Elena, Ivo, Pepe.
+
+Temas y acuerdos
+
+Presentar como muy tarde para el proximo OSW - 10 de  febrero
+
+Roles hasta el próximo OSW
+
+- IVO - Diseño gráfico y UX
+- Lider técnico para maquetación - J.Baumann
+- Maquetación pura - Vicky y Elena.
+- Pepe - Coordinación
+  - Coordinación del proyecto (Asignar roles y conseguir recursos externos cuando toque)
+  - Reporte al core de OSW de avances.
+  - Desarrollo de textos y contenidos actcualizados
+
+- Interfaz gráfica (lidera IVO + ELena + VIcky)
+
+- Pasará pantallazos de la web principaly dispositivos móviles.
+
+  - Web principal
+  - Muestra de contenidos de las secciones
+  - Lós titulares de las secciones serán neutros utilizando un lenguaje claro y no exclusivo. En próximas reuniones decidiremos si hacer menciones  específicas al sexo Ej - (Desarrolladores y desarrolladoras).
+  - Arte de las secciones
+    - Integración de "Acceso" a proyectos de otros (logo goblindb para acceder)
+  - Seguimos con lo que tenemos.
+  - Si Ivo tiene tiempo puede explorar conjuntos de logos o dibujos que sean inclusivos (genero, edad, raza, pet friendly) y que siendo coherentes entre si guarden también relación con  el  titular de cada sección.
+  - Resolver dudas muy concretas sobre arte y diseño (tipagría y colores)
+  - Crear un documento para documentar la guia de estilos.
+  - UX - Se consensúa entre IVO y las chicas pero ante la duda lidera IVO para este sprint (evento OSW)
+
+- Desarrollo técnico (Lidera Baumann + Elena + Vicky)
+  - elegir la estrategia más adecuada para el desarrollo del proyecto 
+  - Soporte al equipo de maquetación (dudas)
+  - Supervisar y asegurar la calidad del código 
+  - Decidir dispositivos móviles  de referencia para las pruebas.
+    - Documentar analisis y razonamiento
+  - Testar el producto para identificar fallos y vulnerabilidades.
+  
+- Coordinación (pepe más sólo que la una)
+  - Concentra la info de los avances para los resumenes y reportes a OSW
+  - Desatascador
+  - Generación de contenidos acutalizados en OSW.
+  - Segimiento del proyecto con IVO y Baumann principalmente.
+  
+  
+Calendario de entregas
+  - 23 al 28/01/18
+    - desarrollo para funcionmiento en dispositivos móviles de web y contenidos (pendiente de confirmación)
+  - 29/0118
+    - Reunión para presentación y feedback
+  - 30/01/18 al 04/0/18 
+    - Actualización de contenidos
+    - Acuerdo de Jerarquía de secciones (Título de seccion, subtitulo 1 subtítulo 2, Desarrollo del contenido, Textos resaltados)
+    - Hablar con ulises y theba de como canalizar feedback 
+  - 05/02/18
+    - Presentación y feedback
+    - ultimos retoque y arreglos.
+    - Acuerdo para presentar Welcome a la comunidad el día 10.
+      - Presentación powerpoint rápida.
+   
+ 
 **Update 13-01-18**
 
 Reunión - Vicky, Baumann y Elena.
