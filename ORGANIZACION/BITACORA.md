@@ -8,7 +8,9 @@ Asistentes - Vicky,Elena, Ivo, Pepe, Pablo
 Anvances
 - Landing principal operativa para web y móvil + responsive
 
-Tareas para la próxima semana -  30/01/18 al 04/0/18 
+__Tareas para la próxima semana -  30/01/18 al 04/0/18__
+
+__Renión para ver avances 05/02/18__
 
 - Elena y vicky
   - Hacer menú desplegable - Hambuerguesa
@@ -22,24 +24,18 @@ Tareas para la próxima semana -  30/01/18 al 04/0/18
 - Pepe
   - Crear sección ¿Eres nuevo?
     - Introducción más amistosa, No hay niveles, Todos aportamos valor ¿Cómo?, Inclusión padres, niños, sexos, Herramientas de software abierto, Venimos a aprender y pasarlo bien.
-
   - Actualizar contenido con los cambios previstos para 2018
   - Editar estilo de las secciones para amenizarlas.
   - Preparar lista de puntos clave para el vídeo de introducción de Pablo.
+  - Avisar  a Theba con tiempo para grabarlo. y subirlo.
    
 - Pablo (Disponiblidad en campus martes y jueves)
   - Leer contenido de las secciones
   - Realizar breve vídeo (1<min) de introducción a OSW para Explicar el ¿Cómo hacer? a Theba.
   - Lanzar reflexión a Ulises + IVO sobre licencias de youtube frente a otros medios. 
   
-
-
-
-
-
-
-
-
+  
+  
 **Update 22-01-18**
 
 Reunión - Vicky,Elena, Ivo, Pepe.
