@@ -1,6 +1,43 @@
 # Welcome!
 **Bitácora de cambios**
 
+**Update 29-01-18**
+
+Asistentes - Vicky,Elena, Ivo, Pepe, Pablo
+
+Anvances
+- Landing principal operativa para web y móvil + responsive
+
+Tareas para la próxima semana -  30/01/18 al 04/0/18 
+
+- Elena y vicky
+  - Hacer menú desplegable - Hambuerguesa
+  - Maquetar y Estilo a las secciones.
+  - Acoplar ur un vídeo de ejemplo en la sección Sobre OSW (1 de youtbe y uno de vimeo para ver problemas de carga)
+  
+- Baumann
+  - Revisar dudas y código.
+  - Meter métricas en el código.
+  
+- Pepe
+  - Crear sección ¿Eres nuevo?
+    - Introducción más amistosa, No hay niveles, Todos aportamos valor ¿Cómo?, Inclusión padres, niños, sexos, Herramientas de software abierto, Venimos a aprender y pasarlo bien.
+
+  - Actualizar contenido con los cambios previstos para 2018
+  - Editar estilo de las secciones para amenizarlas.
+  - Preparar lista de puntos clave para el vídeo de introducción de Pablo.
+   
+- Pablo (Disponiblidad en campus martes y jueves)
+  - Leer contenido de las secciones
+  - Realizar breve vídeo (1<min) de introducción a OSW para Explicar el ¿Cómo hacer? a Theba.
+  - Lanzar reflexión a Ulises + IVO sobre licencias de youtube frente a otros medios. 
+  
+
+
+
+
+
+
 
 
 **Update 22-01-18**
