@@ -6,6 +6,17 @@
   width: 100%;
 
 }
+
+.aside-info-display {
+  width: 90%;
+}
+
+.aside-info-element {
+  margin-top: 3rem;
+}
+
+
+
 ////////////////////////////   MEDIAQUERIES   /////////////////////////////////////////
 @media (min-width: 870px) {
 
@@ -59,14 +70,16 @@
   }
   .aside-info-title {
     text-align: center;
-    font-size: 2.3em;
+    font-size: 3rem;
     margin-bottom: 20px;
-    margin-top: 75px
+    margin-top: 75px;
+    font-weight: 200;
   }
   .aside-info-2title{
     color: $font-link;
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1.5rem;
+    font-weight: 200;
   }
   .aside-info-image {
     display: block;
