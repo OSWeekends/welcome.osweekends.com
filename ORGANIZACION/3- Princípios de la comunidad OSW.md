@@ -1,4 +1,4 @@
-# Guía de conducta de la comunidad OSW
+# Principios de la comunidad OSW
 
 ## ESPAÑOL
 
