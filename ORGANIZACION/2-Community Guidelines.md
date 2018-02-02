@@ -45,7 +45,7 @@ Si encuentras personas sospechosas o detectas incidentes de seguridad, informa i
  
 ## ENGLISH
 
-# OSW Community guidelines 
+### OSW Community guidelines 
 
 Welcome to Open Source Weekens (OSW in advance)! We’re a connector for communities related with open source movement, helping you find what you need to succeed, from a support network to mentoring and more. 
 
