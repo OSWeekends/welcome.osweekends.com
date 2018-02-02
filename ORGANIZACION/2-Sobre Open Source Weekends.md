@@ -71,7 +71,7 @@ Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Per
 
 [**Github:**](https://github.com/osweekends) Plataforma para documentar los proyectos. Es la piedra angular para el trabajo de todos.
 
-[**Twitter:**](@https://twitter.com/os_weekends?lang=es) Red social para conectar con terceros y contar que está pasando en OSW.
+[**Twitter:**](https://twitter.com/os_weekends?lang=es) Red social para conectar con terceros y contar que está pasando en OSW.
 
 [**Medium:**](https://medium.com/osweekends) Red de microbloging donde escribimos sobre lo que pasa en OSW.
 
