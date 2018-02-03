@@ -1,0 +1,59 @@
+/*   ------ MOBILE  ------*/
+
+
+
+header {
+  padding: 20px 30px;
+}
+.navbar-container {
+  display: none;
+
+}
+.navbar-hamburguer {
+  display: block;
+  margin-left: auto;
+  width: 10%;
+  // fill: $font-link;
+}
+.navbar-logo{
+  display: block;
+  margin-right: auto;
+  width: 30%;
+}
+
+/*   ------ DESKTOP ------   */
+
+@media (min-width: 870px) {
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    width: 100%;
+  }
+
+  .navbar-container {
+    display: block;
+    width: 60%;
+  }
+  .navbar-logo {
+    display: block;
+    width: 120px;
+  }
+  .external-link {
+    text-decoration: none;
+    background-color: $default-background;
+    border: 1px solid $font-link;
+    color: $font-link;
+    border-radius: 20px;
+    padding: 10px 10px;
+    height: 40px;
+  }
+  .link-ico {
+    background-color: red;
+    fill: $font-link;
+    margin: 0 10px;
+    padding: 0;
+  }
+
+}
