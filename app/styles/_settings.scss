@@ -5,20 +5,29 @@
 
 body {
   font-family: 'Raleway', sans-serif;
-  background-color: #e5e5e9;
+  background-color: #F0F0F0;
   color: $font-color;
 }
 
 h1, h2, h3, h4, h5,
 h6 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 200;
   padding: 1rem 0 1rem 0;
 }
 
-p{
+h3, h4, h5, h6 {
+font-weight: 100;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p, ol, ul, li{
   font-family: 'Open Sans', sans-serif;
   font-weight: 200;
+  padding: .5rem 0 .5rem 0;
+  font-size: 1.2rem;
 }
 
 
