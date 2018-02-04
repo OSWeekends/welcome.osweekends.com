@@ -6,6 +6,9 @@
 header {
   padding: 20px 30px;
 }
+.navbar-menu {
+  background-color: #ffffff;
+}
 .navbar-container {
   display: none;
 
@@ -18,7 +21,7 @@ header {
 }
 .navbar-logo{
   display: block;
-  margin-right: auto;
+  margin: 1.2rem;
   width: 30%;
 }
 
@@ -32,7 +35,8 @@ header {
   justify-content: space-around;
   height: 100%;
   width: 100%;
-  margin-top: 2rem;
+  padding-top: 2rem;
+  background-color: #ffffff;
 }
 .section-menu {
   padding: 0;
@@ -49,8 +53,12 @@ header {
 
 .section-group {
   background-color: #ffffff;
-  border-radius: 20px;
+  border-radius: 5px;
   margin-bottom:15px;
+  -webkit-box-shadow: -2px 6px 78px -44px rgba(18,18,18,1);
+  -moz-box-shadow: -2px 6px 78px -44px rgba(18,18,18,1);
+  box-shadow: -2px 6px 78px -44px rgba(18,18,18,1);
+  border: 1px solid #f0f0f0;
 }
 
 .section-group img{
@@ -110,7 +118,7 @@ li {
     justify-content: space-around;
     height: 100%;
     width: 50%;
-    margin-top: 2rem;
+    
     // margin-left: 2rem;
     // margin-right: 2rem;
   }
@@ -128,8 +136,6 @@ li {
   }
 
   .section-group {
-    background-color: #ffffff;
-    border-radius: 20px;
     margin:15px 10px;
     width: 45%;
   }
