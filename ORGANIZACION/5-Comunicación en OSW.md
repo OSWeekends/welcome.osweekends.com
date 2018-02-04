@@ -13,7 +13,7 @@ Posee una sencilla sección de mensajería para dudas y cambios de última hora.
 ## [Twitter @OS_weekends](https://twitter.com/os_weekends?lang=es)
 
 Medio principal para conectar con terceros y contar al mundo que está pasando en OSW.
-  
+
 ## [Facebook](https://www.facebook.com/osweekends/)
 
 Medio para documentar los eventos con fotos y vídeos sobre todo.
@@ -38,7 +38,7 @@ Canales principales, usos y finalidades que les damos en OSW:
 
 - #00-importante - La idea es que solo la organización pueda escribir en este canal. Aquí se comunican las cosas importantes que pasan, sin discusión. Asi es más facil seguir los hilos.
 
-- #01-oswguilds - Todo lo relacionado con los Guilds (dudas, como unirse, etc...) 
+- #01-oswguilds - Todo lo relacionado con los Guilds (dudas, como unirse, etc...)
 
 - #02-feedback - La idea de este canal es compartir opiniones y proponer ideas para mejorar OSW entre todos.
 - #03-general - El clásico canal donde hablar y opinar de muchas cosas
@@ -53,4 +53,4 @@ De vez en cuando (cada 2 meses) se purgan los canales en deshuso.
 
 ## [Email de contacto de la comunidad]
 
-osweekends@gmail.com 
+osweekends@gmail.com

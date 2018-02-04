@@ -3,15 +3,15 @@
 ## ESPAÑOL
 
 ### Guía de conducta de OSW
- 
-¡Bienvenido a Open source weekends (OSW en adelante)! Somos un conector para comunidades relacionadas con el movimiento open, ayudandote a encontrar lo que necesitas para ser exitoso, desde una red de soporte a tus proyetos hasta mentoting y mucho más. 
+
+¡Bienvenido a Open source weekends (OSW en adelante)! Somos un conector para comunidades relacionadas con el movimiento open, ayudandote a encontrar lo que necesitas para ser exitoso, desde una red de soporte a tus proyetos hasta mentoting y mucho más.
 
 Nuestros miembros son los que hacen la comunidad como es y te pedimos que aceptes seguir estas simples directrices para que trabajar y jugar durante los eventos de OSW siga siendo una experiencia increible.
 
 Por favor ten en cuenta que esta guía de conducta de la comunidad puede cambiar de vez en cuando. Asegurate de revisarla y leerla con frecuencia para asegurarte que estás al día con la última versión.
- 
+
 **En general**
- 
+
 Sé respetuoso, con nuestro personal y con otros miembros de la comunidad.
 
 Las mejores cosas les pasan a aquellos que colaboran. Conoce a tus vecinos, ya sea saludándoles en el Café, o tomándote tu tiempo para conocer a la persona que se sienta a tu lado.
@@ -29,7 +29,7 @@ Te recordamos que está prohibido utilizar nuestras infraestructuras y la red Wi
 ¿No nos llevamos bien? Nos reservamos el derecho a retirar tu afiliación como miembro de Campus en cualquier momento si actúas de forma antisocial o de forma que puedas causar problemas en las instalaciones o a otros miembros de Campus.
 
 **Seguridad**
- 
+
 Eres responsable de tu ordenador y tus cosas durante los eventos, creemos en el senetido común.
 
 Los miembros de OSW son responsables de sus invitados y deben acompañarlos siempre que sea posible.
@@ -42,22 +42,22 @@ Si encuentras personas sospechosas o detectas incidentes de seguridad, informa i
 
 
 
- 
+
 ## ENGLISH
 
-### OSW Community guidelines 
+### OSW Community guidelines
 
-Welcome to Open Source Weekens (OSW in advance)! We’re a connector for communities related with open source movement, helping you find what you need to succeed, from a support network to mentoring and more. 
+Welcome to Open Source Weekens (OSW in advance)! We’re a connector for communities related with open source movement, helping you find what you need to succeed, from a support network to mentoring and more.
 
-Our members make the community what it is, and we ask you to agree to follow these simple guidelines to make working and playing inside OSW events keep going an amazing experience. 
+Our members make the community what it is, and we ask you to agree to follow these simple guidelines to make working and playing inside OSW events keep going an amazing experience.
 
-Please note that these Community Guidelines may be amended from time to time. You should regularly check back to read these Community Guidelines to ensure that you are up to date with the latest version of the guidelines. 
+Please note that these Community Guidelines may be amended from time to time. You should regularly check back to read these Community Guidelines to ensure that you are up to date with the latest version of the guidelines.
 
 **In general**
 
-Please be kind to our staff and other community members. 
+Please be kind to our staff and other community members.
 
-The best things come to those who collaborate. Meet your neighbors, whether that’s saying “hi” in the cafe, or taking time to know the person sitting next to you. 
+The best things come to those who collaborate. Meet your neighbors, whether that’s saying “hi” in the cafe, or taking time to know the person sitting next to you.
 
 We know the cafe gets busy, so share the space and be respectful, people around you are probably working “on the next big thing”
 
@@ -74,7 +74,7 @@ Can’t get along? We reserve the right to withdraw your membership at any time 
 
 **Security**
 
-You’re responsible of your labtop and yout stuff during the events, we trust your common sense. 
+You’re responsible of your labtop and yout stuff during the events, we trust your common sense.
 
 OSW members are responsible for their guests, and should escort them where possible.
 

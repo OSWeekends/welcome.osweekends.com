@@ -12,10 +12,10 @@ Las recuentes reuniones de un grupo de amigos con interés en  la cerveza y el s
 
 ## Qué aporta OSW
 
-El valor que añadimos en OSW reside en nuestra comunidad. En este meetup todos ayudamos y particpamos. Aquí las conferencias se convierten en amenas charlas sobre los temas que más nos interesan. De este modo el  debate y el networking resulta más entretenido con el invitado y el compañero que tengamos al lado. 
+El valor que añadimos en OSW reside en nuestra comunidad. En este meetup todos ayudamos y particpamos. Aquí las conferencias se convierten en amenas charlas sobre los temas que más nos interesan. De este modo el  debate y el networking resulta más entretenido con el invitado y el compañero que tengamos al lado.
 
-En nuestro encuentro mensual se aprnede y debate sobre 3 a 5 temas cada vez, a veces tiene que ver con tecnológia, pero otras veces no. 
-Aquí la norma  es pasarlo en grande entre todos y todas pues aquí no se discrimina ni a nadie por sexo, edad, raza o religión. Esto es como el la cultura open, de todos y para todos. 
+En nuestro encuentro mensual se aprnede y debate sobre 3 a 5 temas cada vez, a veces tiene que ver con tecnológia, pero otras veces no.
+Aquí la norma  es pasarlo en grande entre todos y todas pues aquí no se discrimina ni a nadie por sexo, edad, raza o religión. Esto es como el la cultura open, de todos y para todos.
 
 [Código de conducta](https://github.com/OSWeekends/welcome.osweekends.com/blob/dev/ORGANIZACION/2-Codigo%20de%20conducta.md)
 
@@ -55,7 +55,7 @@ Son solo algunos  nombres ya que la  lista varía según las circunstacias. Ello
 **OS-Beers:** Tienen lugar para conmemorar ocasiones especiales como los 500 miembros, los 1000 miembros y cosas así.
 
 **Eventos con otras comunidades** Eventos a los que  asistimos como invitados una representación de OSW.
-  
+
 [Mas info sobre los eventos...](vínculo)
 
 
@@ -76,10 +76,10 @@ Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Per
 [**Medium:**](https://medium.com/osweekends) Red de microbloging donde escribimos sobre lo que pasa en OSW.
 
 [**Facebook:**](https://www.facebook.com/osweekends/) Red social donde publicar fotos y vídeos de los eventos.
-  
+
 [**Slack:**](http://invitations-osweekends.herokuapp.com/) - Plataforma de chat por canales para comunicación entre miembros.
 
-[**Email de contactco:**](osweekends@gmail.com) 
+[**Email de contactco:**](osweekends@gmail.com)
 
 [Mas info en Comunicacion en OSW...](https://github.com/OSWeekends/welcome.osweekends.com/blob/develop/ORGANIZACION/4-Comunicaci%C3%B3n%20en%20OSW.md)
 
@@ -90,7 +90,7 @@ Utilizamos muchos canales para comunicarnos y documentar nuestros proyectos. Per
 A veces los proyectos se desarrollan dentro de OSW pero también los hay en colaboración con otras comunidades o terceros. Incluso tenemos una sección del evento para dar visibilidad a proyectos chulos de terceros. Así que ¿a qué estás esperando? apuntate!
 
 **Guilds** Es la filosofía con la que se forman y gestionan los grupos de trabajo que montan los proyectos.
-Un guild es como un equipo compuesto de perfiles complementarios para sacar lo mejor de  cada  proyecto. 
+Un guild es como un equipo compuesto de perfiles complementarios para sacar lo mejor de  cada  proyecto.
 
 [Mas info sobre Proyectos y Guilds...](vínculo)
 

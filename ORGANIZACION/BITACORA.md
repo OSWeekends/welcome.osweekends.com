@@ -16,11 +16,11 @@ __Renión para ver avances 05/02/18__
   - Hacer menú desplegable - Hambuerguesa
   - Maquetar y Estilo a las secciones.
   - Acoplar ur un vídeo de ejemplo en la sección Sobre OSW (1 de youtbe y uno de vimeo para ver problemas de carga)
-  
+
 - Baumann
   - Revisar dudas y código.
   - Meter métricas en el código.
-  
+
 - Pepe
   - Crear sección ¿Eres nuevo?
     - Introducción más amistosa, No hay niveles, Todos aportamos valor ¿Cómo?, Inclusión padres, niños, sexos, Herramientas de software abierto, Venimos a aprender y pasarlo bien.
@@ -28,14 +28,14 @@ __Renión para ver avances 05/02/18__
   - Editar estilo de las secciones para amenizarlas.
   - Preparar lista de puntos clave para el vídeo de introducción de Pablo.
   - Avisar  a Theba con tiempo para grabarlo. y subirlo.
-   
+
 - Pablo (Disponiblidad en campus martes y jueves)
   - Leer contenido de las secciones
   - Realizar breve vídeo (1<min) de introducción a OSW para Explicar el ¿Cómo hacer? a Theba.
-  - Lanzar reflexión a Ulises + IVO sobre licencias de youtube frente a otros medios. 
-  
-  
-  
+  - Lanzar reflexión a Ulises + IVO sobre licencias de youtube frente a otros medios.
+
+
+
 **Update 22-01-18**
 
 Reunión - Vicky,Elena, Ivo, Pepe.
@@ -70,36 +70,36 @@ Roles hasta el próximo OSW
   - UX - Se consensúa entre IVO y las chicas pero ante la duda lidera IVO para este sprint (evento OSW)
 
 - Desarrollo técnico (Lidera Baumann + Elena + Vicky)
-  - elegir la estrategia más adecuada para el desarrollo del proyecto 
+  - elegir la estrategia más adecuada para el desarrollo del proyecto
   - Soporte al equipo de maquetación (dudas)
-  - Supervisar y asegurar la calidad del código 
+  - Supervisar y asegurar la calidad del código
   - Decidir dispositivos móviles  de referencia para las pruebas.
     - Documentar analisis y razonamiento
   - Testar el producto para identificar fallos y vulnerabilidades.
-  
+
 - Coordinación (pepe más sólo que la una)
   - Concentra la info de los avances para los resumenes y reportes a OSW
   - Desatascador
   - Generación de contenidos acutalizados en OSW.
   - Segimiento del proyecto con IVO y Baumann principalmente.
-  
-  
+
+
 Calendario de entregas
   - 23 al 28/01/18
     - desarrollo para funcionmiento en dispositivos móviles de web y contenidos (pendiente de confirmación)
   - 29/0118
     - Reunión para presentación y feedback
-  - 30/01/18 al 04/0/18 
+  - 30/01/18 al 04/0/18
     - Actualización de contenidos
     - Acuerdo de Jerarquía de secciones (Título de seccion, subtitulo 1 subtítulo 2, Desarrollo del contenido, Textos resaltados)
-    - Hablar con ulises y theba de como canalizar feedback 
+    - Hablar con ulises y theba de como canalizar feedback
   - 05/02/18
     - Presentación y feedback
     - ultimos retoque y arreglos.
     - Acuerdo para presentar Welcome a la comunidad el día 10.
       - Presentación powerpoint rápida.
-   
- 
+
+
 **Update 13-01-18**
 
 Reunión - Vicky, Baumann y Elena.
