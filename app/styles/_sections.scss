@@ -62,7 +62,7 @@ header {
 }
 
 .section-group img{
-  margin: 1rem;
+  margin: 1rem auto;
 }
 
 
@@ -118,7 +118,7 @@ li {
     justify-content: space-around;
     height: 100%;
     width: 50%;
-    
+
     // margin-left: 2rem;
     // margin-right: 2rem;
   }
@@ -139,11 +139,6 @@ li {
     margin:15px 10px;
     width: 45%;
   }
-
-  .section-group img{
-    margin: 1rem;
-  }
-
 
   li {
     list-style: none;
