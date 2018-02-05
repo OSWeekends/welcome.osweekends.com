@@ -3,7 +3,7 @@
 ### ¿Cómo ser patrocinador?
 
 Ser patrocinador de nusestra comunidad es muy sencillo. Ponte en contacto con la organicación escribiendo a osweekends@gmail.com
-Y cuentanos que tienes en mente. 
+Y cuentanos que tienes en mente.
 
 Alguien del Core de OSW contactará contigo para comentar la jugada.
 

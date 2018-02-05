@@ -1,5 +1,4 @@
-
-# EVENTOS
+EVENTOS
 
 ## Mensuales (Comenzamos a las  10:00PM)
 
@@ -17,7 +16,7 @@ Y en píldoras de 3 minutos presentamos.
 
 ### Microtalleres y charlas (30 - 45 min)
 
-Son Charlas sobre temáticas o herramientas de interés. El contenido se comparte por slack y debe ser abierto (publicable) para que tedo el mundo pueda acceder. 
+Son Charlas sobre temáticas o herramientas de interés. El contenido se comparte por slack y debe ser abierto (publicable) para que tedo el mundo pueda acceder.
 
 Hay entre 2 y 4 charlas simultáneas que  se realizan  en simultáneo con los talleres de robótica educativa, guardería y tecnología para novatos.
 
@@ -31,7 +30,7 @@ Es el momento de conocer a otros miembros de la comunidad e intercambiar impresi
 
 ### Recogida y cierre (20 min)
 
-El core y los voluntarios de OSW son la columna vertebral porque a parte de resolver dudas montan / desmontan, recogen y limpian las instalaciones para cumplir las normas de los locales. 
+El core y los voluntarios de OSW son la columna vertebral porque a parte de resolver dudas montan / desmontan, recogen y limpian las instalaciones para cumplir las normas de los locales.
 
 Tu también puedes aportar.
 

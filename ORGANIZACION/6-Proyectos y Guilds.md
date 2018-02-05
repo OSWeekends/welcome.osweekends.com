@@ -10,7 +10,7 @@ Un proyecto es la puesta en marcha de una idea y por tanto necesita un sito dond
 
 ### ¿Qué se entiende por ORGANIZACIÓN?
 
-A cada proyecto le asignamos un repositorio en Github (una plataforma gratuita para documentar los proyectos). Y si el proyecto original es muy grande, pues lo repartimos en más directorios independientes. 
+A cada proyecto le asignamos un repositorio en Github (una plataforma gratuita para documentar los proyectos). Y si el proyecto original es muy grande, pues lo repartimos en más directorios independientes.
 
 ### ¿Cómo unirse/participar?
 
@@ -30,20 +30,33 @@ A día de hoy Open Source Weekends cuenta con varios proyectos propios como este
 
 ### ¿Qué es un Guild?
 
-Es un grupo de personas apasionadas que montan un equipo para aprender juntos mientras desarrollan un proyecto Open Source. 
+<<<<<<< HEAD
+Es un grupo de personas apasionadas que montan un equipo para aprender juntos mientras desarrollan un proyecto Open Source.
+=======
+Es un grupo de personas apasionadas que montan un equipo para aprender juntos mientras desarrollan un proyecto Open Source.
+>>>>>>> 0b5168b1b72e3a8fc75d40fb836ac1c02e0a76b3
 
 ### ¿Cómo funciona?
 
 > Queremos que el mundo sea más abierto y colaborativo a traves de la cultura libre. Por ello vamos a empodera a los miembros de los equipos con nuevo sistema de formacion y desarrollo, los "Guilds!"-
 
-¿Cómo lo haremos? 
-- Con un plan de desarrollo tanto individual para aprender a gestionar proyectos y equipos. 
+<<<<<<< HEAD
+¿Cómo lo haremos?
+- Con un plan de desarrollo tanto individual para aprender a gestionar proyectos y equipos.
+=======
+¿Cómo lo haremos?
+- Con un plan de desarrollo tanto individual para aprender a gestionar proyectos y equipos.
+>>>>>>> 0b5168b1b72e3a8fc75d40fb836ac1c02e0a76b3
 - También queremos ayudar a desarrollar las *empowerment skills* (comunicación, pensamiento creativo, team work, desarrollo personal y profesional...)
 - Enseñando recursos técnicos necesarios (cloud, repositorios, infraestructura...)
 - Gamificación la experiencia de aprendizaje
 - Dando cobertura con mentorías y coaching.
 
-Queremos que los contributors de hoy sean los líderes del mañana. 
+<<<<<<< HEAD
+Queremos que los contributors de hoy sean los líderes del mañana.
+=======
+Queremos que los contributors de hoy sean los líderes del mañana.
+>>>>>>> 0b5168b1b72e3a8fc75d40fb836ac1c02e0a76b3
 
 Presentación [#OSWGuilds](http://slides.com/tebagomez/oswguilds#/)
 
@@ -90,9 +103,16 @@ Aquí podéis encontrar Listado oficial actualizado de Guilds y miembros
 
 ## Recursos de los Guilds  
 
-Cada Guild se organiza de manera diferente con respecto a las herramientas; el equipo decide qué utilizar y cómo. 
+<<<<<<< HEAD
+Cada Guild se organiza de manera diferente con respecto a las herramientas; el equipo decide qué utilizar y cómo.
+=======
+Cada Guild se organiza de manera diferente con respecto a las herramientas; el equipo decide qué utilizar y cómo.
+>>>>>>> 0b5168b1b72e3a8fc75d40fb836ac1c02e0a76b3
 
 ### Sesiones
 
 Al margen de todo esto podemos encontrar todas las sesiones de formación impartidas para los Guilds *aquí* (próximamente)
+<<<<<<< HEAD
+=======
 
+>>>>>>> 0b5168b1b72e3a8fc75d40fb836ac1c02e0a76b3
