@@ -1,6 +1,45 @@
 # Welcome!
 **Bitácora de cambios**
 
+**Update 05-02-18**
+
+La manita
+Eres Nuev@
+Revisar subtitulos de tarjetas 2 líneas redondas.
+
+
+Versión web
+Logo en el centro y quitar el barra de navgación y buscador.
+fondo de las tarjetas crema cris
+fondo cabecera transparente
+
+Contenidod expandido de las secciones
+texto alineación a la izquierda en contenido expandido
+tiutlos y subtitulos dar estilo a los h3 y h4
+
+
+Versión móvil
+circulo con flecha a la izquierda para volver
+Logo en el centro
+
+
+
+Subir a github pages,
+rama preproducción para pepe para ver usabilidad y contenido como un usario normal.
+
+
+
+Ulises feeeback habilitar canal de feedback
+
+V2
+Tipografia del contenido de las secciones afinar
+RRSS fuera
+Subir vídeo de theba
+revisar texto para para temas de diversidad
+Vídeo.
+
+
+
 **Update 29-01-18**
 
 Asistentes - Vicky,Elena, Ivo, Pepe, Pablo
