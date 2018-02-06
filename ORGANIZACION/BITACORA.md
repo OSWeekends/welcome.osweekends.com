@@ -3,42 +3,58 @@
 
 **Update 05-02-18**
 
-La manita
-Eres Nuev@
-Revisar subtitulos de tarjetas 2 líneas redondas.
+Reunión para seguimiento del proyecto 
+Asistentes - Pepe, Elena,  Vicky, Ivo.
+Tema - Actualizaciones y cambios
 
+**Actualizaciones**
 
-Versión web
-Logo en el centro y quitar el barra de navgación y buscador.
-fondo de las tarjetas crema cris
-fondo cabecera transparente
+Sección ¿Eres nuevo creada y con logo de la manita para la tarjeta de la sección.
+Contenido de las secciones simplificado y redactado en segunda persona. Lenguaje más cercano y colquial.
 
-Contenidod expandido de las secciones
-texto alineación a la izquierda en contenido expandido
-tiutlos y subtitulos dar estilo a los h3 y h4
+**Tareas importantes y necesarias**
 
+- Baumann Subir web a preproducción  con github pages para testar antes de la presentación
+- Elena y Vicky - Actualizar cambios propuestos hasta  donde de tiempo, límite  miercoles
+- Pepe
+  - Testar y preparar presentación para el sábado, el viernes.
+  - Avisar a Theba
+  - Informar a Baumann de github pages
+  - Avisar a Ulises para canalizar feedback
+  - Ulises Habilitar forma de Feedback, tal vez un canal de slack!
+- Theba - comentarle el  vídeo que queremos grabar el sabado durante el  evento.
 
-Versión móvil
-circulo con flecha a la izquierda para volver
-Logo en el centro
+**Cambios propuestos: (Lo que dé tiempo.)**
 
+- ¿Eres nuev@? escrito con Arroba
+- Tarjetas de secciones
+  - Texto centrado
+  - Redactar de nuevo Subtítulos para que sean 2 líneas, muy simple y directo.
 
+- __Versión web__
 
-Subir a github pages,
-rama preproducción para pepe para ver usabilidad y contenido como un usario normal.
+  - Quitar barra de navegación y herramienta de búsqueda.
+  - Logo OSW en el centro y quitar el barra de navgación y buscador.
+  - Fondo del head Transparente
+  - Fondo del lateral izquierdo donde están las tarjetas de las secciones del mismo color gris que la parte de la derecha.
+- Contenido de las secciones - Revisar algunos detalles en todas ellas.
+  - Alineación del texto a la  izquierda y al mismo nivel
+  -  Revisar estilos h3 y h4 para que el tamañaño y bold de la tipo vaya de manyor a menor en Título 1, Subtítulo, Contenido del parrafo.
+  
+- __Versión móvil__
 
+  - Navegación
+    - Al entrar a la sección  poner un botón en la esquina inferior derecha para retroceder al la pagina de las tarjetas.
+      - Botón ciruclar con flecha en el interior apuntando a la izquierda para volver.
+  - Logo - Posición en el centro.
 
-
-Ulises feeeback habilitar canal de feedback
-
-V2
-Tipografia del contenido de las secciones afinar
-RRSS fuera
-Subir vídeo de theba
-revisar texto para para temas de diversidad
-Vídeo.
-
-
+- Propuestas de mejora para V2
+  - Vídeo de Theba presentando la iniciatiba mientras recorre google desde fuera hasta el auditorio con todos reunidos allí.
+  - Añadir RRSS en algún sitio
+  - Modificar la tipo para copiar a los de Medium
+  - Reescribir el texto para adelgazarlo más todavía y meter el tema diversidad más sutilmente.
+  
+  Fin
 
 **Update 29-01-18**
 
