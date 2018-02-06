@@ -7,7 +7,8 @@ header {
   padding: 20px 30px;
 }
 .navbar-menu {
-  background-color: #ffffff;
+  background-color: transparent;
+  display: block;
 }
 .navbar-container {
   display: none;
@@ -21,7 +22,7 @@ header {
 }
 .navbar-logo{
   display: block;
-  margin: 1.2rem;
+  margin: 0 auto;
   width: 30%;
 }
 
@@ -36,7 +37,6 @@ header {
   height: 100%;
   width: 100%;
   padding-top: 2rem;
-  background-color: #ffffff;
 }
 .section-menu {
   padding: 0;
@@ -59,6 +59,9 @@ header {
   -moz-box-shadow: -2px 6px 78px -44px rgba(18,18,18,1);
   box-shadow: -2px 6px 78px -44px rgba(18,18,18,1);
   border: 1px solid #f0f0f0;
+  &:hover{
+    box-shadow: 0px 20px 100px -39px #121212;
+  }
 }
 
 .section-group img{
@@ -75,12 +78,12 @@ li {
 
 .title {
   font-weight: 500;
-  font-size: 24px;
+  font-size: 30px;
   margin: 1rem 1rem .5rem 1rem;
 }
 
 .description{
-  font-size: 18px;
+  font-size: 26px;
   font-weight: lighter;
   padding: 0.3rem 1rem 1rem 1rem;
 }
