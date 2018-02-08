@@ -19,4 +19,9 @@ notes
 .Rproj.user
 
 # Privado
-.privado
+.idea/
+.vscode
+.node_modules
+.tmp
+.DS_store
+.bower_components
