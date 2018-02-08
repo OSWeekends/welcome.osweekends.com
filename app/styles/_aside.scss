@@ -1,4 +1,4 @@
-.aside-big-info-container {
+.aside-big-info-container-mobile {
   display: none;
 }
 
@@ -21,7 +21,25 @@
   border: 2px solid #C1BFFF;
 }
 
+.footer-social-list {
+  display: none;
+}
 
+.btn-back{
+	position:fixed;
+	width:70px;
+	height:70px;
+	bottom:25px;
+	right:25px;
+	background-color:#CCC;
+	border-radius:10px;
+	box-shadow: 2px 2px 3px #777;
+}
+
+.btn-back-img{
+  width:80%;
+  padding: 12px 0px 0px 12px;
+}
 
 ////////////////////////////   MEDIAQUERIES   /////////////////////////////////////////
 @media (min-width: 870px) {
