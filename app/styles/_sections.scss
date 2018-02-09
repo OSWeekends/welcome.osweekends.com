@@ -73,6 +73,11 @@ header {
   display: block;
 }
 
+.selected {
+  border: 2px solid #96daf5;
+  box-shadow: 0px 20px 100px -39px #121212;
+}
+
 
 li {
   list-style: none;
