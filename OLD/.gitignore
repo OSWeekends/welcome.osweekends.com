@@ -1,0 +1,22 @@
+_site/
+.bundle
+.DS_Store
+.jekyll-metadata
+.sass-cache/
+bin
+node_modules
+/vendor
+Gemfile.lock
+css/main.scss
+.asset-downloads
+
+# Other
+
+NOTES
+notes
+# Optional REPL history
+.node_repl_history
+.Rproj.user
+
+# Privado
+.privado

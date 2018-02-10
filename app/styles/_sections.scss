@@ -1,0 +1,178 @@
+/* ------ MOBILE -------*/
+
+
+/*    HEADER MENU    */
+
+header {
+  padding: 20px 30px;
+}
+.navbar-menu {
+  background-color: transparent;
+  display: block;
+}
+.navbar-container {
+  display: none;
+
+}
+.navbar-hamburguer {
+  display: block;
+  margin-left: auto;
+  width: 10%;
+  // fill: $font-link;
+}
+.navbar-logo{
+  display: block;
+  margin: 20px auto;
+  width: 30%;
+}
+
+///   FIN DE HEADER   //
+
+
+
+.section-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-around;
+  height: 100%;
+  width: 100%;
+  padding-top: 2rem;
+}
+
+.section-container-mobile {
+  display: none;
+}
+
+.section-menu {
+  padding: 0;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-general ul {
+    width: 50%;
+    padding: 1rem;
+
+}
+
+.section-group {
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin-bottom:15px;
+  -webkit-box-shadow: -2px 6px 78px -44px rgba(18,18,18,1);
+  -moz-box-shadow: -2px 6px 78px -44px rgba(18,18,18,1);
+  box-shadow: -2px 6px 78px -44px rgba(18,18,18,1);
+  border: 1px solid #f0f0f0;
+  &:hover{
+    box-shadow: 0px 20px 100px -39px #121212;
+  }
+}
+
+.section-group img{
+  margin: 1rem auto;
+  display: block;
+}
+
+.selected {
+  border: 2px solid #96daf5;
+  box-shadow: 0px 20px 100px -39px #121212;
+}
+
+
+li {
+  list-style: none;
+}
+
+
+
+.title {
+  font-weight: 500;
+  font-size: 30px;
+  margin: 1rem 1rem .5rem 1rem;
+  text-align: center;
+}
+
+.description{
+  font-size: 26px;
+  font-weight: lighter;
+  padding: 0.3rem 1rem 1rem 1rem;
+  text-align: center;
+}
+
+
+
+/////////   MEDIAQUERIES   /////////
+
+@media (min-width: 870px) {
+
+
+  /*HEADER*/
+
+  header{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    width: 100%;
+  }
+  .navbar-container{
+    display: block;
+    width: 60%;
+  }
+  .navbar-logo{
+    display: block;
+    width: 120px;
+  }
+
+
+  /*FIN HEADER*/
+
+
+  .section-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 100%;
+    width: 50%;
+
+    // margin-left: 2rem;
+    // margin-right: 2rem;
+  }
+
+
+  .section-general ul {
+      background-color: red;
+      width: 50%;
+      padding: 0;
+  }
+  .section-menu {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+  }
+
+  .section-group {
+    margin:15px 10px;
+    width: 45%;
+  }
+
+  li {
+    list-style: none;
+  }
+
+
+
+  .title {
+    font-weight: 500;
+    font-size: 24px;
+    margin: 1rem 1rem .5rem 1rem;;
+  }
+
+  .description{
+    font-size: 18px;
+    font-weight: lighter;
+    padding: 0.3rem 1rem 1rem 1rem;
+  }
+
+}
