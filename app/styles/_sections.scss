@@ -28,10 +28,8 @@ header {
 
 ///   FIN DE HEADER   //
 
-.section-container-mobile {
-  display: none;
-}
-/*
+
+
 .section-container {
   display: flex;
   flex-direction: column;
@@ -41,7 +39,11 @@ header {
   width: 100%;
   padding-top: 2rem;
 }
-*/
+
+.section-container-mobile {
+  display: none;
+}
+
 .section-menu {
   padding: 0;
   width: 90%;
