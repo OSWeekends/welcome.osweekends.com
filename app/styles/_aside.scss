@@ -41,6 +41,14 @@
   padding: 12px 0px 0px 12px;
 }
 
+.with-links a {
+  color: cornflowerblue;
+}
+
+.with-links a:hover {
+  color: deepskyblue;
+}
+
 ////////////////////////////   MEDIAQUERIES   /////////////////////////////////////////
 @media (min-width: 870px) {
 
@@ -152,8 +160,10 @@
     margin-right: 5px;
     width: 35px;
   }
-  .social-ico{
+  .social-ico {
     width: 35px;
+    -webkit-filter: grayscale(1);
+    filter: brightness(0.6);
   }
 
   .btn-back{
